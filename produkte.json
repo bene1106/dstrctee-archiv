@@ -1,0 +1,130 @@
+{
+  "marke": "DSTRCTEE",
+  "hinweis": "Archiv-Daten – generiert aus products_export_1.csv. Nur die 8 released Tees aus referenz_uebersicht.png.",
+  "produkte": [
+    {
+      "handle": "f-hain-tee",
+      "titel": "F-Hain Tee",
+      "bezirk": "Friedrichshain",
+      "artist": "Anne Jahn",
+      "preis": 27.00,
+      "preis_ab": false,
+      "beschreibung": "F-Hain Tee von Anne Jahn – Friedrichshain auf Stoff. Eine künstlerische Interpretation der Oberbaumbrücke, kombiniert mit urbanen Impressionen aus Friedrichshain – bunt, lebendig, kontrastreich. Berliner Kiezgefühl direkt auf Brust und Rücken.",
+      "material": "100 % Bio-Baumwolle (ringgesponnen), 180 g/m², Medium Fit (Unisex). GOTS-, OCS-, OEKO-TEX-100- und PETA-Approved-Vegan-zertifiziert. On demand produziert.",
+      "bilder": [
+        "unisex-organic-cotton-t-shirt-white-front-and-back-6840ac8d12406.jpg",
+        "IMG_2843.jpg"
+      ]
+    },
+    {
+      "handle": "berlin-tee",
+      "titel": "Berlin Tee",
+      "bezirk": "Berlin",
+      "artist": "E.B.H. Winter (@lilcloud666)",
+      "preis": 31.50,
+      "preis_ab": true,
+      "beschreibung": "★ TOO SOFT FOR THIS CITY ★ Artshirt von E.B.H. Winter. Ein verträumter Trash-Tiger-Teddy mit Neon-Herz – verloren in einem Universum aus Sternen und Lärm. Front: Herz offen, Augen weit. Rücken: Berlin als Schlafparalyse, Lovesong und bizarres Disco-Chaos. Ärmel: Sharky E-Gitarre – süß, aber laut.",
+      "material": "100 % Bio-Baumwolle (ringgesponnen), 180 g/m², Unisex Medium Fit. Vorder-, Rückseite & Ärmel bedruckt mit Originalkunst von Emilia Winter. GOTS, OCS, OEKO-TEX 100, PETA-Approved Vegan.",
+      "bilder": [
+        "unisex-organic-cotton-t-shirt-cotton-pink-front-and-back-685fd7326467d.jpg",
+        "IMG_1414.jpg",
+        "IMG_1422.jpg",
+        "unisex-organic-cotton-t-shirt-white-front-and-back-685fd732678b2.jpg",
+        "unisex-organic-cotton-t-shirt-black-front-and-back-685fd73266911.jpg"
+      ]
+    },
+    {
+      "handle": "kopenick-tee",
+      "titel": "Köpenick Tee",
+      "bezirk": "Köpenick",
+      "artist": "DSTRCTEE",
+      "preis": 30.00,
+      "preis_ab": false,
+      "beschreibung": "Köpenick Tee – Müggelsee Edition. Eine Hommage an den Müggelsee, Berlins größtes Binnengewässer und Symbol für Freiheit, Natur und urbanen Rückzugsort. Eine künstlerische Collage von Segelbooten in unterschiedlichen Farbwelten – von Tag bis Nacht, von Klarheit bis Reflexion.",
+      "material": "100 % Bio-Baumwolle (ringgesponnen), 180 g/m², Medium Fit. GOTS, OCS, OEKO-TEX 100, PETA-Approved Vegan. On demand produziert.",
+      "bilder": [
+        "unisex-organic-cotton-t-shirt-white-front-and-back-6840af9aecdd3.jpg",
+        "IMG_2174w.jpg",
+        "IMG_2160w.jpg",
+        "IMG_2163w.jpg"
+      ]
+    },
+    {
+      "handle": "bergmannkieztee",
+      "titel": "Bergmannkiez Tee",
+      "bezirk": "Kreuzberg",
+      "artist": "Robin Law",
+      "preis": 27.00,
+      "preis_ab": false,
+      "beschreibung": "Design von Robin Law. Mitten aus dem Herzen Kreuzbergs – die kreative Energie des Bergmannkiezes direkt auf der Brust. Robin Law verwandelt das Straßenbild rund um die Fidicinstraße in ein visuelles Statement: überdimensionale Hände, ein Espressoglas, florale Elemente und ein verzerrter Häuserhintergrund verschmelzen zu einer surrealistischen Collage. Limited Edition – Berlin-Kunst zum Anziehen.",
+      "material": "100 % Bio-Baumwolle (ringgesponnen, GOTS & OCS-zertifiziert), 180 g/m², Medium Fit (Unisex). OEKO-TEX Standard 100 & PETA-Approved Vegan.",
+      "bilder": [
+        "unisex-organic-cotton-t-shirt-white-front-and-back-685004d4aa660.jpg",
+        "IMG_2096w.jpg",
+        "IMG_2028w.jpg",
+        "IMG_2033w.jpg",
+        "IMG_2030w.jpg",
+        "IMG_2110w.jpg",
+        "unisex-organic-cotton-t-shirt-black-front-and-back-685004d4a907d.jpg",
+        "IMG_2081w.jpg",
+        "IMG_2107w.jpg"
+      ]
+    },
+    {
+      "handle": "sonnenalleetee",
+      "titel": "Sonnenallee Tee",
+      "bezirk": "Neukölln",
+      "artist": "Marc (@media_bean)",
+      "preis": 27.00,
+      "preis_ab": true,
+      "beschreibung": "Sonnenallee Tee von Marc. Ein Bild aus Berlin-Neukölln: Graffiti, AMG, ein Mann in kariertem Hemd – die Sonnenallee zwischen Realität und Klischee. Das Sonnenallee Tee fängt diesen Moment ein und bringt ihn als Fotoprint auf dein Shirt.",
+      "material": "100 % Bio-Baumwolle (ringgesponnen, gekämmt), 180 g/m², Medium Fit. GOTS- & OCS-zertifiziert, OEKO-TEX Standard 100, PETA-Approved Vegan. Hergestellt unter fairen Bedingungen.",
+      "bilder": [
+        "unisex-organic-cotton-t-shirt-black-front-and-back-687959f5d83ce.jpg"
+      ]
+    },
+    {
+      "handle": "wedding-tee",
+      "titel": "Wedding Tee",
+      "bezirk": "Wedding",
+      "artist": "Katharina",
+      "preis": 29.00,
+      "preis_ab": false,
+      "beschreibung": "Wedding Tee – Design von Katharina. Das Wedding Tee bringt den Charakter des Berliner Bezirks auf Stoff – inspiriert vom rauen Charme und der Vielfalt des Weddings. Gedruckt auf nachhaltigem Premium-Material.",
+      "material": "100 % Bio-Baumwolle (ringgesponnen), 180 g/m², Unisex Medium Fit. GOTS- & OCS-zertifiziert, OEKO-TEX Standard 100, PETA-Approved Vegan.",
+      "bilder": [
+        "unisex-organic-cotton-t-shirt-white-front-and-back-684bdf385fa61.jpg"
+      ]
+    },
+    {
+      "handle": "turmstrassetee",
+      "titel": "Turmstraße Tee",
+      "bezirk": "Moabit",
+      "artist": "Hannah",
+      "preis": 29.00,
+      "preis_ab": false,
+      "beschreibung": "Turmstraße Tee – Design von Hannah. Ein Shirt wie gemacht für Berlin: minimalistisches Design mit maximaler Aussage. Die Berliner Künstlerin Hannah hat mit ihrer handgezeichneten Skizze die urbane Stimmung der Turmstraße in Moabit eingefangen – roh und doch detailverliebt. Gedruckt auf hochwertiger Bio-Baumwolle.",
+      "material": "100 % Bio-Baumwolle (ringgesponnen), 180 g/m², Unisex Medium Fit. GOTS & OCS-zertifiziert, OEKO-TEX Standard 100, PETA-Approved Vegan.",
+      "bilder": [
+        "unisex-organic-cotton-t-shirt-black-front-and-back-684bde274d077.jpg",
+        "IMG_1350.png",
+        "IMG_1342.png",
+        "IMG_1345.png",
+        "IMG_1343.png"
+      ]
+    },
+    {
+      "handle": "schoneberg-tee",
+      "titel": "Schöneberg Tee",
+      "bezirk": "Schöneberg",
+      "artist": "DSTRCTEE",
+      "preis": 30.00,
+      "preis_ab": false,
+      "beschreibung": "Schöneberg Tee. Ein Stück Berlin-Schöneberg auf hochwertiger Bio-Baumwolle – schlicht, hochwertig und nachhaltig. Streetwear mit Kiez-Charakter.",
+      "material": "100 % Bio-Baumwolle (ringgesponnen), 180 g/m², Medium Fit. GOTS, OCS, OEKO-TEX Standard 100, PETA-Approved Vegan. On demand produziert.",
+      "bilder": [
+        "unisex-organic-cotton-t-shirt-white-front-and-back-6840b12edfe75.jpg"
+      ]
+    }
+  ]
+}
