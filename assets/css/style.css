@@ -432,6 +432,10 @@ h1, h2, h3, h4 { margin: 0; line-height: 1.12; letter-spacing: -.015em; font-wei
 .prose { max-width: 68ch; }
 .prose p { color: #2c2c2c; margin: 0 0 1.2em; }
 .prose strong { font-weight: 600; }
+.prose h3 { font-size: 1rem; font-weight: 600; margin: 1.6em 0 .5em; }
+.prose h3:first-child { margin-top: 0; }
+.prose a { color: var(--ink); text-decoration: underline; text-underline-offset: 3px; transition: color .2s var(--ease); }
+.prose a:hover { color: var(--pink-deep); }
 
 .contact-form { max-width: 480px; }
 

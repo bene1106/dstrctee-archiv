@@ -139,7 +139,7 @@ function renderFooter() {
     { h: "🎨 Hilfe & Support", links: ["FAQ", "Rückgabe & Umtausch", ["Kontakt","kontakt.html"], "Größenberatung", "Künstler:in werden"] },
     { h: "🎁 DSTRCTEE entdecken", links: [["Über uns","ueber-uns.html"], ["Unsere Künstler:innen","artists.html"], ["Alle Bezirke","shop.html"], "Gutscheine", "Nachhaltigkeit"] },
     { h: "💳 Bezahlung & Versand", links: ["Zahlungsmethoden", "Versandkosten & Lieferzeiten"] },
-    { h: "📋 Rechtliches", links: ["Impressum", "AGB", "Widerrufsrecht", "Datenschutzerklärung"] }
+    { h: "📋 Rechtliches", links: [["Impressum","impressum.html"], "AGB", "Widerrufsrecht", ["Datenschutzerklärung","datenschutz.html"]] }
   ];
   const colHTML = cols.map(c => `
     <div class="footer-col">
