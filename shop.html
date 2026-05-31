@@ -5,6 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tees – DSTRCTEE Archiv</title>
   <meta name="description" content="Alle DSTRCTEE Tees im Überblick – ein Motiv für jeden Berliner Bezirk.">
+  <link rel="icon" href="assets/img/logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
@@ -13,14 +17,14 @@
 
   <main>
     <div class="wrap">
-      <div class="crumb"><a href="index.html">Start</a> / Tees</div>
-      <section class="section" style="padding-top:24px">
-        <div class="section-head">
+      <div class="breadcrumb"><a href="index.html">Start</a> / <span>Tees</span></div>
+      <section class="section section--tight">
+        <div class="section__head">
           <span class="eyebrow">Archiv · 8 Motive</span>
-          <h1>Die Tees</h1>
-          <p class="muted">Ein Shirt für jeden Kiez. Klick dich rein – Kauf ist pausiert, Interesse kannst du hinterlassen.</p>
+          <h2>Tees</h2>
+          <p class="lead">Ein Shirt für jeden Kiez, entworfen von lokalen Artists. Der Verkauf ist pausiert – Interesse kannst du auf jeder Produktseite hinterlassen.</p>
         </div>
-        <div class="grid" id="produkt-grid">
+        <div class="product-grid" id="produkt-grid">
           <p class="muted">Lade Produkte …</p>
         </div>
       </section>
@@ -34,13 +38,7 @@
       const grid = document.getElementById("produkt-grid");
       try {
         const produkte = await loadProdukte();
-        grid.innerHTML = produkte.map(p => `
-          <a class="card" href="produkt.html?handle=${encodeURIComponent(p.handle)}">
-            <div class="thumb"><img src="${imgPath(p.bilder[0])}" alt="${p.titel}" loading="lazy"></div>
-            <span class="kiez">${p.bezirk}</span>
-            <span class="title">${p.titel}</span>
-            <span class="price">${euro(p.preis, p.preis_ab)}</span>
-          </a>`).join("");
+        grid.innerHTML = produkte.map(productCard).join("");
       } catch (e) {
         grid.innerHTML = '<p class="form-note err">Produkte konnten nicht geladen werden.</p>';
         console.error(e);

@@ -5,6 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Unsere Artists – DSTRCTEE Archiv</title>
   <meta name="description" content="Die Berliner Artists hinter den DSTRCTEE Tees – Kunst aus deinem Kiez.">
+  <link rel="icon" href="assets/img/logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
@@ -13,22 +17,22 @@
 
   <main>
     <div class="wrap">
-      <div class="crumb"><a href="index.html">Start</a> / Artists</div>
-      <section class="section" style="padding-top:24px">
-        <div class="section-head">
+      <div class="breadcrumb"><a href="index.html">Start</a> / <span>Unsere Artists</span></div>
+      <section class="section section--tight">
+        <div class="section__head">
           <span class="eyebrow">berliner artists</span>
-          <h1>Kunst aus deinem Kiez</h1>
-          <p class="muted">Jedes Tee entstand zusammen mit lokalen Künstler:innen. Sie haben ihren Bezirk auf den Stoff gebracht – hier sind sie.</p>
+          <h2>Kunst aus deinem Kiez</h2>
+          <p class="lead">Jedes Tee entstand zusammen mit lokalen Künstler:innen. Sie haben ihren Bezirk auf den Stoff gebracht – hier sind sie.</p>
         </div>
         <div class="media-band">
-          <img src="DesignbilderWebseite/IMG_1311.jpg" alt="DSTRCTEE Artists / Models">
+          <img src="DesignbilderWebseite/IMG_1311.jpg" alt="DSTRCTEE Models in Tees">
           <img src="DesignbilderWebseite/IMG_1340_cd5ad81c-8918-41fc-af89-bb2667c5e943.jpg" alt="Turmstraße-Motiv von Hannah">
         </div>
       </section>
 
       <section class="section" style="padding-top:0">
-        <div class="artist-list" id="artist-list"><p class="muted">Lade Artists …</p></div>
-        <p class="muted mt-32" style="font-size:.9rem">Hinweis: Bei einzelnen Tees lag im Shop-Export kein Künstlername vor – diese sind hier nicht aufgeführt.</p>
+        <div class="artist-grid" id="artist-list"><p class="muted" style="padding:24px">Lade Artists …</p></div>
+        <p class="muted" style="font-size:.85rem;margin-top:20px">Hinweis: Bei einzelnen Tees lag im Shop-Export kein Künstlername vor – diese sind hier nicht aufgeführt.</p>
       </section>
     </div>
   </main>
@@ -42,13 +46,13 @@
         const produkte = await loadProdukte();
         const named = produkte.filter(p => p.artist && p.artist !== "DSTRCTEE");
         list.innerHTML = named.map(p => `
-          <div class="a">
+          <div class="artist-card">
             <span class="k">${p.bezirk}</span>
-            <p class="name">${p.artist}</p>
-            <p class="muted" style="margin:.2em 0">Motiv: <a href="produkt.html?handle=${encodeURIComponent(p.handle)}">${p.titel}</a></p>
+            <div class="name">${p.artist}</div>
+            <div class="motif">Motiv: <a href="produkt.html?handle=${encodeURIComponent(p.handle)}">${p.titel}</a></div>
           </div>`).join("");
       } catch (e) {
-        list.innerHTML = '<p class="form-note err">Konnte nicht geladen werden.</p>';
+        list.innerHTML = '<p class="form-note err" style="padding:24px">Konnte nicht geladen werden.</p>';
       }
     };
   </script>

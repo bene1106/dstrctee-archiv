@@ -5,6 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Produkt – DSTRCTEE Archiv</title>
   <meta name="description" content="DSTRCTEE Tee – Detailansicht im Archiv.">
+  <link rel="icon" href="assets/img/logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
@@ -13,7 +17,7 @@
 
   <main>
     <div class="wrap">
-      <div class="crumb"><a href="index.html">Start</a> / <a href="shop.html">Tees</a> / <span id="crumb-title">…</span></div>
+      <div class="breadcrumb"><a href="index.html">Start</a> / <a href="shop.html">Tees</a> / <span id="crumb-title">…</span></div>
       <div id="produkt-detail">
         <p class="muted" style="padding:48px 0">Lade Produkt …</p>
       </div>
@@ -32,43 +36,10 @@
 
       const p = produkte.find(x => x.handle === handle);
       if (!p) {
-        root.innerHTML = '<div style="padding:48px 0"><h1>Nicht gefunden</h1><p class="muted">Dieses Produkt gibt es im Archiv nicht. <a href="shop.html">Zur Übersicht</a></p></div>';
+        root.innerHTML = '<div style="padding:64px 0"><h1 class="pdp__title">Nicht gefunden</h1><p class="muted">Dieses Produkt gibt es im Archiv nicht. <a href="shop.html" style="text-decoration:underline">Zur Übersicht</a></p></div>';
         return;
       }
-
-      document.title = p.titel + " – DSTRCTEE Archiv";
-      document.getElementById("crumb-title").textContent = p.titel;
-
-      const thumbs = p.bilder.map((b, i) =>
-        `<button class="${i === 0 ? "active" : ""}" data-i="${i}" aria-label="Bild ${i + 1}"><img src="${imgPath(b)}" alt="${p.titel} Ansicht ${i + 1}" loading="lazy"></button>`
-      ).join("");
-
-      root.innerHTML = `
-        <div class="product">
-          <div class="gallery">
-            <div class="main"><img id="main-img" src="${imgPath(p.bilder[0])}" alt="${p.titel}"></div>
-            ${p.bilder.length > 1 ? `<div class="thumbs">${thumbs}</div>` : ""}
-          </div>
-          <div class="meta">
-            <span class="eyebrow">${p.bezirk}${p.artist ? " · " + p.artist : ""}</span>
-            <h1>${p.titel}</h1>
-            <div class="price">${euro(p.preis, p.preis_ab)}</div>
-            <p class="muted" style="margin-top:0">Ehemaliger Shop-Preis · Verkauf pausiert</p>
-            <p class="desc">${p.beschreibung}</p>
-            ${interestFormHTML(p.titel)}
-            <div class="specs">${p.material || ""}</div>
-          </div>
-        </div>`;
-
-      // Galerie-Wechsel
-      const mainImg = document.getElementById("main-img");
-      root.querySelectorAll(".thumbs button").forEach(btn => {
-        btn.addEventListener("click", () => {
-          mainImg.src = imgPath(p.bilder[+btn.dataset.i]);
-          root.querySelectorAll(".thumbs button").forEach(b => b.classList.remove("active"));
-          btn.classList.add("active");
-        });
-      });
+      renderProductDetail(root, p);
     };
   </script>
 </body>

@@ -10,15 +10,16 @@ Statische Archiv-Website (reines HTML/CSS/JS, **kein** Framework, **kein** Backe
 
 | Datei | Zweck |
 |-------|-------|
-| `index.html` | Startseite: Pause-Banner, Pitch, Hero, Link zur Übersicht |
+| `index.html` | Startseite: Pink-Banner, „berlin's soul"-Hero, Tee-Grid, 3-Spalten-Sektion, GOOD-NEWS-Newsletter |
 | `shop.html` | Übersicht aller 8 Tees (Grid aus `produkte.json`) |
-| `produkt.html` | Produktdetail, dynamisch per `?handle=…` aus `produkte.json` |
+| `produkt.html` | Produktdetail, dynamisch per `?handle=…` aus `produkte.json` (Galerie, Größen-Pills, Anzahl, Interesse-Feld, Größentabelle, Material/GPSR) |
 | `ueber-uns.html`, `artists.html`, `kontakt.html` | Statische Seiten |
 | `produkte.json` | Datenquelle: die **8 released Tees** (Titel, Preis, Beschreibung, Artist, Bezirk, Bilder) |
-| `assets/css/style.css` | Styles (Dawn-angelehnt, Pink-Akzent, responsiv) |
-| `assets/js/site.js` | Header/Footer, Produktdaten-Loader, Interesse-Formular |
+| `assets/css/style.css` | Styles (originalgetreuer Dawn-Nachbau, Pink-Akzent, responsiv) |
+| `assets/js/site.js` | Banner/Header/Footer, Produktdaten-Loader, Produktdetail, Interesse-Formular |
+| `assets/img/logo.png` | Echtes DSTRCTEE-Logo (zugeschnitten aus `DesignbilderWebseite/9.png`) |
 | `Produktbilder/` | Produktbilder (lokal gesichert) |
-| `DesignbilderWebseite/` | Layout-/Hero-/Artist-Bilder |
+| `DesignbilderWebseite/` | Layout-/Hero-/Artist-Bilder inkl. Original-Logo `9.png` |
 
 > Es werden bewusst **nur die 8 Tees** aus `referenz_uebersicht.png` gezeigt (F-Hain, Berlin, Köpenick, Bergmannkiez, Sonnenallee, Wedding, Turmstraße, Schöneberg). Andere Einträge der CSV (Hoodies, Gutschein, Special/Draft-Dubletten) wurden nie released und sind ausgeschlossen.
 >
