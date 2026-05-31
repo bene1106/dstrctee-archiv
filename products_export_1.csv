@@ -1,0 +1,714 @@
+Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option1 Linked To,Option2 Name,Option2 Value,Option2 Linked To,Option3 Name,Option3 Value,Option3 Linked To,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Unit Price Total Measure,Unit Price Total Measure Unit,Unit Price Base Measure,Unit Price Base Measure Unit,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,ertert (product.metafields.custom.ertert),Größentabelle (product.metafields.custom.grosentabelle),Material & Pflege (product.metafields.custom.material_pflege),Material & Pflege2 (product.metafields.custom.material_pflege2),Handelsartikelbeschreibung (product.metafields.import_information.trade_item_description),Variant Image,Variant Weight Unit,Variant Tax Code,Cost per item,Status
+sonnenalleetee,Sonnenallee Tee,"<p><strong>Sonnenallee Tee von <a href=""https://www.instagram.com/media_bean/"">Marc</a></strong><br>Ein Bild aus Berlin-Neukölln: Graffiti, AMG, ein Mann in kariertem Hemd: die Sonnenallee zwischen Realität und Klischee.<br>Das Sonnenallee Tee fängt diesen Moment ein und bringt ihn als Fotoprint auf dein Shirt.<br></p>
+<p><strong class=""size-guide-title"">Größentabelle</strong></p>
+<div data-unit-system=""metric"" class=""table-responsive dynamic"">
+<table cellpadding=""5"">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>KÖRPERLÄNGE (cm)</strong></td>
+<td><strong>BRUSTWEITE (cm)</strong></td>
+<td><strong>ÄRMELLÄNGE (cm)</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>69</td>
+<td>49.5</td>
+<td>22.5</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>73</td>
+<td>53.5</td>
+<td>24</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>75</td>
+<td>56.5</td>
+<td>24.5</td>
+</tr>
+<tr>
+<td><strong>XL</strong></td>
+<td>77</td>
+<td>59.5</td>
+<td>25</td>
+</tr>
+<tr>
+<td><strong>2XL</strong></td>
+<td>79</td>
+<td>63.5</td>
+<td>25.5</td>
+</tr>
+<tr>
+<td><strong>3XL</strong></td>
+<td>81</td>
+<td>67.5</td>
+<td>26</td>
+</tr>
+</tbody>
+</table>
+</div>",DSTRCTEE,Uncategorized,"","",true,Größe,S,,,,,,,,7738729_11869,150.2524725625,shopify,deny,manual,27.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-687959f5d83ce.jpg?v=1752783362,1,Product mockup,false,,,,"Größentabelle
+
+&nbsp;	KÖRPERLÄNGE (cm)	BRUSTWEITE (cm)	ÄRMELLÄNGE (cm)
+S	69	49.5	22.5
+M	73	53.5	24
+L	75	56.5	24.5
+XL	77	59.5	25
+2XL	79	63.5	25.5
+3XL	81	67.5	26","'- 100 % Bio-Baumwolle (ringgesponnen, gekämmt)
+- Stoffgewicht: 180 g/m² (5.3 oz/yd²)
+- Single Jersey für ein angenehmes Tragegefühl
+- Medium Fit
+- Set-In Ärmel, 1x1 Rippkragen, Doppelnaht an Ärmeln und Saum
+- Nackenband aus gleichem Stoff für extra Komfort
+
+Nachhaltigkeit
+- GOTS & OCS zertifiziert (Global Organic Textile Standard, Organic Content Standard)
+- OEKO-TEX Standard 100
+- PETA-Approved Vegan
+
+Hergestellt unter fairen Bedingungen in Bangladesch",,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-687959f5d83ce.jpg?v=1752783362,oz,PC040100,14.15,active
+sonnenalleetee,,,,,,,,,M,,,,,,,,7738729_11870,170.09713875,shopify,deny,manual,27.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-687959f5d83ce.jpg?v=1752783362,oz,PC040100,14.15,
+sonnenalleetee,,,,,,,,,L,,,,,,,,7738729_11871,175.767043375,shopify,deny,manual,27.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-687959f5d83ce.jpg?v=1752783362,oz,PC040100,14.15,
+sonnenalleetee,,,,,,,,,XL,,,,,,,,7738729_11872,187.106852625,shopify,deny,manual,27.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-687959f5d83ce.jpg?v=1752783362,oz,PC040100,14.15,
+sonnenalleetee,,,,,,,,,2XL,,,,,,,,7738729_11873,192.77675725,shopify,deny,manual,28.10,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-687959f5d83ce.jpg?v=1752783362,oz,PC040100,15.45,
+sonnenalleetee,,,,,,,,,3XL,,,,,,,,7738729_17229,226.796185,shopify,deny,manual,29.20,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-687959f5d83ce.jpg?v=1752783362,oz,PC040100,16.75,
+unisex-bio-raglan-hoodie,Turmstraße Hoodie,"<p>Dein Viertel. Dein Statement. Mit dem „Turmstraße“ Hoodie holst du dir ein Stück Moabit direkt in deinen Alltag. Die Berliner Künstlerin Hannah hat mit ihrer handgezeichneten Skizze die urbane Stimmung der Turmstraße eingefangen – minimalistisch, roh und doch detailverliebt.<br><br>Der hochwertige Hoodie in Schwarz kommt mit weichem Innenfutter. Auf der Vorderseite findest du das dezente Districtee-Logo in Rosa, während auf dem Rücken das kunstvolle Turmstraße-Motiv für den Eyecatcher sorgt.<br></p>
+<p><strong class=""size-guide-title"">Größentabelle</strong></p>
+<div class=""table-responsive dynamic"" data-unit-system=""metric"">
+<table cellpadding=""5"">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>LÄNGE (cm)</strong></td>
+<td><strong>WEITE (cm)</strong></td>
+</tr>
+<tr>
+<td><strong>XS</strong></td>
+<td>65</td>
+<td>49</td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>68</td>
+<td>52</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>69</td>
+<td>55.1</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>70</td>
+<td>58</td>
+</tr>
+<tr>
+<td><strong>XL</strong></td>
+<td>71.1</td>
+<td>61</td>
+</tr>
+<tr>
+<td><strong>2XL</strong></td>
+<td>71.9</td>
+<td>64</td>
+</tr>
+</tbody>
+</table>
+</div>",DSTRCTEE,Uncategorized,"","",true,Größe,XS,,,,,,,,9474400_13723,439.9845989,shopify,deny,manual,50.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-eco-raglan-hoodie-black-front-686fa43330334.jpg?v=1752147006,1,Product mockup,false,,,,,"• Außen: 100% Bio-Baumwolle
+• Anthrazitfarbenes Mischgewebe besteht zu 60% aus Baumwolle und 40% recyceltem Polyester
+• Innenseite für alle Farben: 80% Bio-Baumwolle, 20% recyceltes Polyester
+• Angerauter Innenstoff
+• Normale Passform
+• Raglan-Ärmel
+• Gerippte Bündchen und gerippter Saum
+• Kordel mit Metallösen und Stoppern
+• Innenkapuze aus Jersey
+•Rohprodukt wird aus Bangladesch bezogen",,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-eco-raglan-hoodie-black-front-686fa43330334.jpg?v=1752147006,oz,PC040100,39.20,active
+unisex-bio-raglan-hoodie,,,,,,,,,S,,,,,,,,9474400_13724,489.8797596,shopify,deny,manual,50.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-eco-raglan-hoodie-black-left-686fa43330ea1.jpg?v=1752147006,2,Product mockup,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-eco-raglan-hoodie-black-front-686fa43330334.jpg?v=1752147006,oz,PC040100,39.20,
+unisex-bio-raglan-hoodie,,,,,,,,,M,,,,,,,,9474400_13725,499.80209269375,shopify,deny,manual,50.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-eco-raglan-hoodie-black-right-686fa433310b3.jpg?v=1752147006,3,Product mockup,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-eco-raglan-hoodie-black-front-686fa43330334.jpg?v=1752147006,oz,PC040100,39.20,
+unisex-bio-raglan-hoodie,,,,,,,,,L,,,,,,,,9474400_13726,529.85258720625,shopify,deny,manual,50.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-eco-raglan-hoodie-black-back-686fa43331285.jpg?v=1752147007,4,Product mockup,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-eco-raglan-hoodie-black-front-686fa43330334.jpg?v=1752147006,oz,PC040100,39.20,
+unisex-bio-raglan-hoodie,,,,,,,,,XL,,,,,,,,9474400_13727,529.85258720625,shopify,deny,manual,50.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-eco-raglan-hoodie-black-front-686fa43330334.jpg?v=1752147006,oz,PC040100,39.20,
+unisex-bio-raglan-hoodie,,,,,,,,,2XL,,,,,,,,9474400_13728,559.90308171875,shopify,deny,manual,51.50,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-eco-raglan-hoodie-black-front-686fa43330334.jpg?v=1752147006,oz,PC040100,40.50,
+turmstrasse-zip-hoodie,Turmstraße Zip Hoodie,"<p>Dein Viertel. Dein Statement. Mit dem „Turmstraße“ Zip Hoodie holst du dir ein Stück Moabit direkt in deinen Alltag. Die Berliner Künstlerin Hannah hat mit ihrer handgezeichneten Skizze die urbane Stimmung der Turmstraße eingefangen – minimalistisch, roh und doch detailverliebt.<br><br>Der hochwertige Zip Hoodie in Schwarz kommt mit weichem Innenfutter, praktischen Taschen und einem stabilen Reißverschluss. Auf der Vorderseite findest du das dezente Districtee-Logo in Rosa, während auf dem Rücken das kunstvolle Turmstraße-Motiv für den Eyecatcher sorgt.<br><br><br></p>
+<p><strong class=""size-guide-title"">Größentabelle</strong></p>
+<div class=""table-responsive dynamic"" data-unit-system=""metric"">
+<table cellpadding=""5"">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>LÄNGE (cm)</strong></td>
+<td><strong>BRUST (cm)</strong></td>
+<td><strong>ÄRMELLÄNGE (cm)</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>68.6</td>
+<td>96.5-104.1</td>
+<td>85</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>71.1</td>
+<td>106.7-114.3</td>
+<td>87.6</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>73.7</td>
+<td>116.8-124.5</td>
+<td>90.2</td>
+</tr>
+<tr>
+<td><strong>XL</strong></td>
+<td>76.2</td>
+<td>127-134.6</td>
+<td>92.7</td>
+</tr>
+</tbody>
+</table>
+</div>",DSTRCTEE,Uncategorized,"","",true,Farbe,Schwarz,,Größe,S,,,,,4178119_17295,447.922465375,shopify,deny,manual,50.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-heavy-blend-zip-hoodie-black-front-686f7552bc826.jpg?v=1752135003,1,Product mockup,false,,,,,"
+• 50 % Baumwolle, 50 % Polyester
+• Stoffgewicht: 271 g/m² (8 oz/yd²)
+• Garndurchmesser: 20 Fasern
+• Weicher Fleecestoff innen und außen
+• Luftgesponnene Garne sorgen für geringere Knäuelbildung
+• Normale Passform
+• Metallreißverschluss
+• Vorne mit Kängurutaschen
+• Ungefütterte Kapuze mit farblich abgestimmtem Kordelzug
+• Doppelnähte an Schultern, Armausschnitten, Kragen, Bund und Ärmelabschlüssen
+• Umweltfreundliche Technik: Konform mit ANSI/ISEA 107
+• Rohprodukte aus Honduras und El Salvador bezogen
+
+Disclaimer: Aufgrund der Stoffeigenschaften kann die Farbe White eher cremeweiß als strahlend weiß erscheinen.
+",,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-heavy-blend-zip-hoodie-black-front-686f7552bc826.jpg?v=1752135003,oz,PC040100,28.20,active
+turmstrasse-zip-hoodie,,,,,,,,,Schwarz,,,M,,,,,4178119_17296,453.59237,shopify,deny,manual,50.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-heavy-blend-zip-hoodie-black-back-686f7552bd643.jpg?v=1752135004,2,Product mockup,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-heavy-blend-zip-hoodie-black-front-686f7552bc826.jpg?v=1752135003,oz,PC040100,28.20,
+turmstrasse-zip-hoodie,,,,,,,,,Schwarz,,,L,,,,,4178119_17297,490.4467500625,shopify,deny,manual,50.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-heavy-blend-zip-hoodie-white-front-686f7552bd8ed.jpg?v=1752135002,3,Product mockup,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-heavy-blend-zip-hoodie-black-front-686f7552bc826.jpg?v=1752135003,oz,PC040100,28.20,
+turmstrasse-zip-hoodie,,,,,,,,,Schwarz,,,XL,,,,,4178119_17298,629.359413375,shopify,deny,manual,50.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-heavy-blend-zip-hoodie-white-back-686f7552bdb8d.jpg?v=1752135003,4,Product mockup,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-heavy-blend-zip-hoodie-black-front-686f7552bc826.jpg?v=1752135003,oz,PC040100,28.20,
+turmstrasse-zip-hoodie,,,,,,,,,Weiß,,,S,,,,,4178119_17335,447.922465375,shopify,deny,manual,50.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-heavy-blend-zip-hoodie-white-front-686f7552bd8ed.jpg?v=1752135002,oz,PC040100,28.20,
+turmstrasse-zip-hoodie,,,,,,,,,Weiß,,,M,,,,,4178119_17337,453.59237,shopify,deny,manual,50.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-heavy-blend-zip-hoodie-white-front-686f7552bd8ed.jpg?v=1752135002,oz,PC040100,28.20,
+turmstrasse-zip-hoodie,,,,,,,,,Weiß,,,L,,,,,4178119_17339,490.4467500625,shopify,deny,manual,50.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-heavy-blend-zip-hoodie-white-front-686f7552bd8ed.jpg?v=1752135002,oz,PC040100,28.20,
+turmstrasse-zip-hoodie,,,,,,,,,Weiß,,,XL,,,,,4178119_17341,629.359413375,shopify,deny,manual,50.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-heavy-blend-zip-hoodie-white-front-686f7552bd8ed.jpg?v=1752135002,oz,PC040100,28.20,
+berlin-tee,Berlin Tee,"<p>★ TOO S♡FT FOR THIS CITY ★<br><br>✦ ARTSHIRT BY E.B.H. WINTER ✦<br><br>@lilcloud666 <br><br>DREAMY TRASH-TIGER-TEDDY WITH A NEON HEART – LOST IN A UNIVERSE OF STARS AND NOISE.<br><br><br><br>A REMINDER THAT SOFTNESS IS A FORM OF SELF-EXPRESSION AND RESISTANCE.<br><br>AND THAT BEING TENDER IN THIS CITY ISN’T A WEAKNESS – IT’S PURE POWER.<br><br><br><br>✦ FRONT: HEART OPEN. EYES WIDE.<br><br>✦ BACK: BERLIN AS SLEEP PARALYSIS, LOVESONG, AND BIZARRE DISCO CHAOS.<br><br>✦ SLEEVE: SHARKY E-GUITAR – CUTE BUT LOUD.<br><br><br><br>FOR ALL THE SOFT BERLIN BITCHES (★‿★)<br><br><br></p>
+<p><strong class=""size-guide-title"">Größentabelle</strong></p>
+<div class=""table-responsive dynamic"" data-unit-system=""metric"">
+<table cellpadding=""5"">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>KÖRPERLÄNGE (cm)</strong></td>
+<td><strong>BRUSTWEITE (cm)</strong></td>
+<td><strong>ÄRMELLÄNGE (cm)</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>69</td>
+<td>49.5</td>
+<td>22.5</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>73</td>
+<td>53.5</td>
+<td>24</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>75</td>
+<td>56.5</td>
+<td>24.5</td>
+</tr>
+<tr>
+<td><strong>XL</strong></td>
+<td>77</td>
+<td>59.5</td>
+<td>25</td>
+</tr>
+<tr>
+<td><strong>2XL</strong></td>
+<td>79</td>
+<td>63.5</td>
+<td>25.5</td>
+</tr>
+<tr>
+<td><strong>3XL</strong></td>
+<td>81</td>
+<td>67.5</td>
+<td>26</td>
+</tr>
+<tr>
+<td><strong>4XL</strong></td>
+<td>83</td>
+<td>72.5</td>
+<td>26</td>
+</tr>
+<tr>
+<td><strong>5XL</strong></td>
+<td>84</td>
+<td>77.5</td>
+<td>26</td>
+</tr>
+</tbody>
+</table>
+</div>",DSTRCTEE,Uncategorized,"","",true,Farbe,Cotton Pink,,Größe,S,,,,,6851879_17412,150.2524725625,shopify,deny,manual,31.50,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-cotton-pink-front-and-back-685fd7326467d.jpg?v=1751111486,1,Product mockup,false,,,,,"✔ Eigenschaften:
+100 % Bio-Baumwolle (ringgesponnen)
+
+Stoffgewicht: 180 g/m² (Single Jersey)
+
+Unisex Medium Fit – moderner, bequemer Schnitt
+
+Doppelnähte an Ärmeln und Saum für Langlebigkeit
+
+Nackenband aus gleichem Stoff für angenehmes Tragegefühl
+
+Vorderseite, Rückseite &amp; Ärmel bedruckt mit Originalkunst von Emilia Winter
+
+♻ Zertifizierungen:
+GOTS- &amp; OCS-zertifizierte Bio-Baumwolle
+
+OEKO-TEX Standard 100 geprüft
+
+PETA-Approved Vegan",..,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-cotton-pink-front-and-back-685fd7326467d.jpg?v=1751111486,oz,PC040100,19.40,active
+berlin-tee,,,,,,,,,Cotton Pink,,,M,,,,,6851879_17413,170.09713875,shopify,deny,manual,31.50,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_1414.jpg?v=1751111744,2,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-cotton-pink-front-and-back-685fd7326467d.jpg?v=1751111486,oz,PC040100,19.40,
+berlin-tee,,,,,,,,,Cotton Pink,,,L,,,,,6851879_17414,175.767043375,shopify,deny,manual,31.50,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_1422.jpg?v=1751111744,3,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-cotton-pink-front-and-back-685fd7326467d.jpg?v=1751111486,oz,PC040100,19.40,
+berlin-tee,,,,,,,,,Cotton Pink,,,XL,,,,,6851879_17415,187.106852625,shopify,deny,manual,31.50,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685fd732678b2.jpg?v=1751111744,4,Product mockup,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-cotton-pink-front-and-back-685fd7326467d.jpg?v=1751111486,oz,PC040100,19.40,
+berlin-tee,,,,,,,,,Cotton Pink,,,2XL,,,,,6851879_17416,192.77675725,shopify,deny,manual,32.60,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-685fd73266911.jpg?v=1751111744,5,Product mockup,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-cotton-pink-front-and-back-685fd7326467d.jpg?v=1751111486,oz,PC040100,20.70,
+berlin-tee,,,,,,,,,Weiß,,,S,,,,,6851879_11864,150.2524725625,shopify,deny,manual,31.50,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685fd732678b2.jpg?v=1751111744,oz,PC040100,19.40,
+berlin-tee,,,,,,,,,Weiß,,,M,,,,,6851879_11865,170.09713875,shopify,deny,manual,31.50,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685fd732678b2.jpg?v=1751111744,oz,PC040100,19.40,
+berlin-tee,,,,,,,,,Weiß,,,L,,,,,6851879_11866,175.767043375,shopify,deny,manual,31.50,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685fd732678b2.jpg?v=1751111744,oz,PC040100,19.40,
+berlin-tee,,,,,,,,,Weiß,,,XL,,,,,6851879_11867,187.106852625,shopify,deny,manual,31.50,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685fd732678b2.jpg?v=1751111744,oz,PC040100,19.40,
+berlin-tee,,,,,,,,,Weiß,,,2XL,,,,,6851879_11868,192.77675725,shopify,deny,manual,32.60,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685fd732678b2.jpg?v=1751111744,oz,PC040100,20.70,
+berlin-tee,,,,,,,,,Weiß,,,3XL,,,,,6851879_17228,226.796185,shopify,deny,manual,33.70,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685fd732678b2.jpg?v=1751111744,oz,PC040100,22.00,
+berlin-tee,,,,,,,,,Weiß,,,4XL,,,,,6851879_17232,243.805898875,shopify,deny,manual,34.80,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685fd732678b2.jpg?v=1751111744,oz,PC040100,23.30,
+berlin-tee,,,,,,,,,Weiß,,,5XL,,,,,6851879_17235,262.80007936875,shopify,deny,manual,35.90,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685fd732678b2.jpg?v=1751111744,oz,PC040100,24.60,
+berlin-tee,,,,,,,,,Schwarz,,,S,,,,,6851879_11869,150.2524725625,shopify,deny,manual,31.50,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-685fd73266911.jpg?v=1751111744,oz,PC040100,19.40,
+berlin-tee,,,,,,,,,Schwarz,,,M,,,,,6851879_11870,170.09713875,shopify,deny,manual,31.50,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-685fd73266911.jpg?v=1751111744,oz,PC040100,19.40,
+berlin-tee,,,,,,,,,Schwarz,,,L,,,,,6851879_11871,175.767043375,shopify,deny,manual,31.50,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-685fd73266911.jpg?v=1751111744,oz,PC040100,19.40,
+berlin-tee,,,,,,,,,Schwarz,,,XL,,,,,6851879_11872,187.106852625,shopify,deny,manual,31.50,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-685fd73266911.jpg?v=1751111744,oz,PC040100,19.40,
+berlin-tee,,,,,,,,,Schwarz,,,2XL,,,,,6851879_11873,192.77675725,shopify,deny,manual,32.60,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-685fd73266911.jpg?v=1751111744,oz,PC040100,20.70,
+berlin-tee,,,,,,,,,Schwarz,,,3XL,,,,,6851879_17229,226.796185,shopify,deny,manual,33.70,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-685fd73266911.jpg?v=1751111744,oz,PC040100,22.00,
+berlin-tee,,,,,,,,,Schwarz,,,4XL,,,,,6851879_17233,243.805898875,shopify,deny,manual,34.80,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-685fd73266911.jpg?v=1751111744,oz,PC040100,23.30,
+berlin-tee,,,,,,,,,Schwarz,,,5XL,,,,,6851879_17236,262.80007936875,shopify,deny,manual,35.90,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-685fd73266911.jpg?v=1751111744,oz,PC040100,24.60,
+unisex-organic-cotton-t-shirt,Berlin Tee Special Edition,"Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly.<br>
+<br>
+• 100% organic ring-spun cotton<br>
+• Fabric weight: 5.3 oz./yd.² (180 g/m²)<br>
+• Single jersey<br>
+• Medium fit<br>
+• Set-in sleeves<br>
+• 1 × 1 rib at collar<br>
+• Wide double-needle topstitch on the sleeves and bottom hems<br>
+• Self-fabric neck tape (inside, back of the neck)<br>
+• The fabric of this product holds certifications for its organic cotton content under GOTS (Global Organic Textile Standard) and OCS (Organic Content Standard)<br>
+• The fabric of this product is OEKO-TEX Standard 100 certified and PETA-Approved Vegan<br>
+• Blank product sourced from Bangladesh<br>
+<br>
+The sizes correspond to a smaller size in the US market, so US customers should order a size up.<br>
+<br>
+This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!<br>
+<br>
+Age restrictions: For adults<br>
+EU Warranty: 2 years<br>
+Other compliance information: Meets the EU REACH requirements.<br>
+<br>
+In compliance with the General Product Safety Regulation (GPSR), DSTRCTEE and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at Altensteinstr. 40, 14195 Berlin or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.<p><strong class=""size-guide-title"">Größentabelle</strong></p><div class=""table-responsive dynamic"" data-unit-system=""metric""><table cellpadding=""5""><tbody>
+<tr>
+<td> </td>
+<td><strong>KÖRPERLÄNGE (cm)</strong></td>
+<td><strong>BRUSTWEITE (cm)</strong></td>
+<td><strong>ÄRMELLÄNGE (cm)</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>69</td>
+<td>49.5</td>
+<td>22.5</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>73</td>
+<td>53.5</td>
+<td>24</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>75</td>
+<td>56.5</td>
+<td>24.5</td>
+</tr>
+<tr>
+<td><strong>XL</strong></td>
+<td>77</td>
+<td>59.5</td>
+<td>25</td>
+</tr>
+</tbody></table></div>",DSTRCTEE,,"","",true,Size,S,,,,,,,,1680001_11864,150.2524725625,shopify,deny,manual,31.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685d2a22dac36.jpg?v=1750936112,1,Product mockup,false,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685d2a22dac36.jpg?v=1750936112,oz,PC040100,19.40,active
+unisex-organic-cotton-t-shirt,,,,,,,,,M,,,,,,,,1680001_11865,170.09713875,shopify,deny,manual,31.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685d2a22dac36.jpg?v=1750936112,oz,PC040100,19.40,
+unisex-organic-cotton-t-shirt,,,,,,,,,L,,,,,,,,1680001_11866,175.767043375,shopify,deny,manual,17.98,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685d2a22dac36.jpg?v=1750936112,oz,PC040100,19.40,
+unisex-organic-cotton-t-shirt,,,,,,,,,XL,,,,,,,,1680001_11867,187.106852625,shopify,deny,manual,31.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685d2a22dac36.jpg?v=1750936112,oz,PC040100,19.40,
+bergmannkieztee,Bergmannkiez Tee,"<p>Design von Robin Law<br><br>Mitten aus dem Herzen Kreuzbergs – dieses Shirt bringt die kreative Energie des Bergmannkiezes direkt auf deine Brust. Robin Law verwandelt das Straßenbild rund um die Fidicinstraße in ein visuelles Statement: überdimensionale Hände, ein Espressoglas, florale Elemente und ein verzerrter Häuserhintergrund verschmelzen zu einer surrealistischen Collage. Ein strahlend blauer ""BERGMANN""-Schriftzug verleiht dem Motiv Kraft und Wiedererkennungswert.<br><br>Die Rückseite ziert das Motiv in minimalistischer Form – perfekt platziert über der Brusttaschenzone, ergänzt durch Signaturen des Künstlers.<br><br>Limited Edition – Berlin-Kunst zum Anziehen.<br>Jeder Kauf unterstützt lokale Künstler:innen.<br></p>
+<p><strong class=""size-guide-title"">Größentabelle</strong></p>
+<div class=""table-responsive dynamic"" data-unit-system=""metric"">
+<table cellpadding=""5"">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>KÖRPERLÄNGE (cm)</strong></td>
+<td><strong>BRUSTWEITE (cm)</strong></td>
+<td><strong>ÄRMELLÄNGE (cm)</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>69</td>
+<td>49.5</td>
+<td>22.5</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>73</td>
+<td>53.5</td>
+<td>24</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>75</td>
+<td>56.5</td>
+<td>24.5</td>
+</tr>
+<tr>
+<td><strong>XL</strong></td>
+<td>77</td>
+<td>59.5</td>
+<td>25</td>
+</tr>
+</tbody>
+</table>
+</div>",DSTRCTEE,Uncategorized,"","",true,Farbe,Schwarz,,Größe,S,,,,,6163983_11869,150.2524725625,shopify,deny,manual,27.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685004d4aa660.jpg?v=1752150027,1,Product mockup,false,,,,,"100 % Bio-Baumwolle (ringgesponnen, GOTS &amp; OCS-zertifiziert)
+Stoffgewicht: 180 g/m² (5.3 oz/yd²)
+Single Jersey
+Medium Fit (Unisex)
+Set-In Ärmel
+1×1 Rippstrick am Kragen
+Breiter Doppelnaht-Saum an Ärmeln &amp; Shirtende
+Nackenband aus gleichem Stoff für mehr Komfort
+OEKO-TEX Standard 100 zertifiziert &amp; PETA-Approved Vegan
+
+",,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-685004d4a907d.jpg?v=1752151491,oz,PC040100,20.00,active
+bergmannkieztee,,,,,,,,,Schwarz,,,M,,,,,6163983_11870,170.09713875,shopify,deny,manual,27.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_2096w.jpg?v=1752151491,2,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-685004d4a907d.jpg?v=1752151491,oz,PC040100,20.00,
+bergmannkieztee,,,,,,,,,Schwarz,,,L,,,,,6163983_11871,175.767043375,shopify,deny,manual,27.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_2028w.jpg?v=1752151491,3,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-685004d4a907d.jpg?v=1752151491,oz,PC040100,20.00,
+bergmannkieztee,,,,,,,,,Schwarz,,,XL,,,,,6163983_11872,187.106852625,shopify,deny,manual,27.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_2033w.jpg?v=1752151491,4,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-685004d4a907d.jpg?v=1752151491,oz,PC040100,20.00,
+bergmannkieztee,,,,,,,,,Weiß,,,S,,,,,6163983_11864,150.2524725625,shopify,deny,manual,27.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_2030w.jpg?v=1752151491,5,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685004d4aa660.jpg?v=1752150027,oz,PC040100,20.00,
+bergmannkieztee,,,,,,,,,Weiß,,,M,,,,,6163983_11865,170.09713875,shopify,deny,manual,27.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_2110w.jpg?v=1752151491,6,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685004d4aa660.jpg?v=1752150027,oz,PC040100,20.00,
+bergmannkieztee,,,,,,,,,Weiß,,,L,,,,,6163983_11866,175.767043375,shopify,deny,manual,27.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-685004d4a907d.jpg?v=1752151491,7,Product mockup,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685004d4aa660.jpg?v=1752150027,oz,PC040100,20.00,
+bergmannkieztee,,,,,,,,,Weiß,,,XL,,,,,6163983_11867,187.106852625,shopify,deny,manual,27.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_2081w.jpg?v=1752150343,8,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-685004d4aa660.jpg?v=1752150027,oz,PC040100,20.00,
+bergmannkieztee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_2107w.jpg?v=1752150343,9,"",,,,,,,,,,,,,
+dstrctee-gutschein,DSTRCTEE Gutschein,"<p data-start=""117"" data-end=""502"">🎁 <strong data-start=""120"" data-end=""185"">Districtee Geschenkgutschein – Berliner Style zum Verschenken</strong><br data-start=""185"" data-end=""188"">Du suchst ein Geschenk, das kreativ, lokal und nachhaltig ist? Mit dem Districtee Geschenkgutschein liegst du immer richtig. Ob Geburtstag, Feiertag oder einfach als kleine Aufmerksamkeit – verschenke ein Stück Berlin in Form von einzigartigen T-Shirts, entworfen von lokalen Künstler:innen, die ihre Kieze feiern.</p>
+<p data-start=""504"" data-end=""751"">🖼️ <strong data-start=""508"" data-end=""528"">Das steckt drin:</strong><br data-start=""528"" data-end=""531"">Der Gutschein kann im gesamten Districtee Onlineshop eingelöst werden – für alle T-Shirts, die in Zusammenarbeit mit Berliner Kreativen entstehen. Jedes Shirt erzählt eine Geschichte. Jeder Kauf unterstützt Kunst &amp; Kiez.</p>
+<p data-start=""753"" data-end=""983"">♻️ <strong data-start=""756"" data-end=""774"">Gut zu wissen:</strong><br data-start=""774"" data-end=""777"">• Digital per E-Mail versendet<br data-start=""807"" data-end=""810"">• In verschiedenen Beträgen erhältlich<br data-start=""848"" data-end=""851"">• Kein Ablaufdatum<br data-start=""869"" data-end=""872"">• Direkt einlösbar im Districtee Onlineshop<br data-start=""915"" data-end=""918"">• Nachhaltiges Modekonzept – fair &amp; umweltfreundlich produziert</p>",DSTRCTEE,Gift Cards,"","",true,Nennwerte,"10,00 €",,,,,,,,,0.0,,deny,gift_card,10.00,,false,false,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/9_62c23718-4a09-428b-8b66-b31b58ff3bcc.png?v=1749971917,1,"",true,,,,,,,,,kg,,,active
+dstrctee-gutschein,,,,,,,,,"25,00 €",,,,,,,,,0.0,,deny,gift_card,25.00,,false,false,,,,,,,,,,,,,,,,,,kg,,,
+dstrctee-gutschein,,,,,,,,,"50,00 €",,,,,,,,,0.0,,deny,gift_card,50.00,,false,false,,,,,,,,,,,,,,,,,,kg,,,
+dstrctee-gutschein,,,,,,,,,"100,00 €",,,,,,,,,0.0,,deny,gift_card,100.00,,false,false,,,,,,,,,,,,,,,,,,kg,,,
+berlin-tee-1,Berlin Tee,"<p dir=""auto"">★ TOO S♡FT FOR THIS CITY ★</p>
+<p>✦ ARTSHIRT BY E.B.H. WINTER ✦</p>
+<p>@lilcloud666 </p>
+<p>DREAMY TRASH-TIGER-TEDDY WITH A NEON HEART – LOST IN A UNIVERSE OF STARS AND NOISE.</p>
+<p><br></p>
+<p>A REMINDER THAT SOFTNESS IS A FORM OF SELF-EXPRESSION AND RESISTANCE.</p>
+<p>AND THAT BEING TENDER IN THIS CITY ISN’T A WEAKNESS – IT’S PURE POWER.</p>
+<p><br></p>
+<p>✦ FRONT: HEART OPEN. EYES WIDE.</p>
+<p>✦ BACK: BERLIN AS SLEEP PARALYSIS, LOVESONG, AND BIZARRE DISCO CHAOS.</p>
+<p>✦ SLEEVE: SHARKY E-GUITAR – CUTE BUT LOUD.</p>
+<p><br></p>
+<p dir=""auto"">FOR ALL THE SOFT BERLIN BITCHES (★‿★)</p>
+<p dir=""auto""><br>✔ Eigenschaften:<br>100 % Bio-Baumwolle (ringgesponnen)<br><br>Stoffgewicht: 180 g/m² (Single Jersey)<br><br>Unisex Medium Fit – moderner, bequemer Schnitt<br><br>Doppelnähte an Ärmeln und Saum für Langlebigkeit<br><br>Nackenband aus gleichem Stoff für angenehmes Tragegefühl<br><br>Vorderseite, Rückseite &amp; Ärmel bedruckt mit Originalkunst von Emilia Winter<br><br>♻ Zertifizierungen:<br>GOTS- &amp; OCS-zertifizierte Bio-Baumwolle<br><br>OEKO-TEX Standard 100 geprüft<br><br>PETA-Approved Vegan<br><br>Age restrictions: Für Erwachsene<br>EU Warranty: 2 Jahre<br>Other compliance information: Erfüllt die REACH-Anforderungen der EU.<br><br>In Übereinstimmung mit der Allgemeinen Produktsicherheitsverordnung (GPSR) <b>DSTRCTEE </b>und <b>SINDEN VENTURES LIMITED </b>um sicherzustellen, dass alle angebotenen Verbraucherprodukte sicher sind und den EU-Standards entsprechen. Bei Fragen oder Bedenken bezüglich der Produktsicherheit wende dich bitte an unseren EU-Vertreter unter <b>gpsr@sindenventures.com</b>. Du erreichst uns auch schriftlich unter <b>Altensteinstr. 40, 14195 Berlin </b>oder <b>Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.<b></b></b></p>
+<p><strong class=""size-guide-title"">Größentabelle</strong></p>
+<div class=""table-responsive dynamic"" data-unit-system=""metric"">
+<table cellpadding=""5"">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>KÖRPERLÄNGE (cm)</strong></td>
+<td><strong>BRUSTWEITE (cm)</strong></td>
+<td><strong>ÄRMELLÄNGE (cm)</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>69</td>
+<td>49.5</td>
+<td>22.5</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>73</td>
+<td>53.5</td>
+<td>24</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>75</td>
+<td>56.5</td>
+<td>24.5</td>
+</tr>
+<tr>
+<td><strong>XL</strong></td>
+<td>77</td>
+<td>59.5</td>
+<td>25</td>
+</tr>
+</tbody>
+</table>
+</div>",DSTRCTEE,Uncategorized,"","",false,Farbe,Cotton Pink,,Größe,S,,,,,5792580_17412,150.2524725625,shopify,deny,manual,31.50,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-cotton-pink-front-and-back-684be08e0bf70.jpg?v=1749803161,1,Product mockup,false,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-cotton-pink-front-and-back-684be08e0bf70.jpg?v=1749803161,oz,PC040100,22.50,draft
+berlin-tee-1,,,,,,,,,Cotton Pink,,,M,,,,,5792580_17413,170.09713875,shopify,deny,manual,31.50,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6856bef4db2d1.jpg?v=1750515458,2,Product mockup,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-cotton-pink-front-and-back-684be08e0bf70.jpg?v=1749803161,oz,PC040100,22.50,
+berlin-tee-1,,,,,,,,,Cotton Pink,,,L,,,,,5792580_17414,175.767043375,shopify,deny,manual,31.50,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_1414.jpg?v=1751111744,3,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-cotton-pink-front-and-back-684be08e0bf70.jpg?v=1749803161,oz,PC040100,22.50,
+berlin-tee-1,,,,,,,,,Cotton Pink,,,XL,,,,,5792580_17415,187.106852625,shopify,deny,manual,31.50,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_1422.jpg?v=1751111744,4,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-cotton-pink-front-and-back-684be08e0bf70.jpg?v=1749803161,oz,PC040100,22.50,
+berlin-tee-1,,,,,,,,,Weiß,,,S,,,,,1998876_11864,150.2524725625,shopify,deny,manual,31.50,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6856bef4db2d1.jpg?v=1750515458,oz,PC040100,22.50,
+berlin-tee-1,,,,,,,,,Weiß,,,M,,,,,1998876_11865,170.09713875,shopify,deny,manual,31.50,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6856bef4db2d1.jpg?v=1750515458,oz,PC040100,22.50,
+berlin-tee-1,,,,,,,,,Weiß,,,L,,,,,1998876_11866,175.767043375,shopify,deny,manual,31.50,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6856bef4db2d1.jpg?v=1750515458,oz,PC040100,22.50,
+berlin-tee-1,,,,,,,,,Weiß,,,XL,,,,,1998876_11867,187.106852625,shopify,deny,manual,31.50,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6856bef4db2d1.jpg?v=1750515458,oz,PC040100,22.50,
+berlin-tee-1,,,,,,,,,Weiß,,,2XL,,,,,1998876_11868,192.77675725,shopify,deny,manual,33.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6856bef4db2d1.jpg?v=1750515458,oz,PC040100,24.00,
+berlin-tee-1,,,,,,,,,Weiß,,,3XL,,,,,1998876_17228,226.796185,shopify,deny,manual,34.50,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6856bef4db2d1.jpg?v=1750515458,oz,PC040100,25.50,
+berlin-tee-1,,,,,,,,,Weiß,,,4XL,,,,,1998876_17232,243.805898875,shopify,deny,manual,36.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6856bef4db2d1.jpg?v=1750515458,oz,PC040100,27.00,
+berlin-tee-1,,,,,,,,,Weiß,,,5XL,,,,,1998876_17235,262.80007936875,shopify,deny,manual,37.50,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6856bef4db2d1.jpg?v=1750515458,oz,PC040100,28.50,
+unisex-bio-baumwoll-t-shirt-1,Wedding Tee,"<p>Wedding Tee – Design von Katharina <br>Das Wedding Tee bringt den Charakter des Berliner Bezirks auf Stoff – entworfen von Katharina, inspiriert vom rauen Charme und der Vielfalt des Weddings. Gedruckt auf nachhaltigem Premium-Material.<br><br></p>
+<p><strong class=""size-guide-title"">Größentabelle</strong></p>
+<div class=""table-responsive dynamic"" data-unit-system=""metric"">
+<table cellpadding=""5"">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>KÖRPERLÄNGE (cm)</strong></td>
+<td><strong>BRUSTWEITE (cm)</strong></td>
+<td><strong>ÄRMELLÄNGE (cm)</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>69</td>
+<td>49.5</td>
+<td>22.5</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>73</td>
+<td>53.5</td>
+<td>24</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>75</td>
+<td>56.5</td>
+<td>24.5</td>
+</tr>
+<tr>
+<td><strong>XL</strong></td>
+<td>77</td>
+<td>59.5</td>
+<td>25</td>
+</tr>
+</tbody>
+</table>
+</div>",DSTRCTEE,Uncategorized,"","",true,Größe,S,,,,,,,,7359754_11864,150.2524725625,shopify,deny,manual,29.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-684bdf385fa61.jpg?v=1749802819,1,Product mockup,false,,,,,"✔ Eigenschaften:
+100 % Bio-Baumwolle (ringgesponnen)
+
+Stoffgewicht: 180 g/m² (Single Jersey)
+
+Unisex Medium Fit – moderner, bequemer Schnitt
+
+Eingesetzte Ärmel &amp; 1x1 Rippstrick-Kragen
+
+Robuste Doppelnähte an Ärmeln und Saum
+
+Nackenband aus gleichem Stoff für hohen Tragekomfort
+
+♻ Zertifizierungen:
+GOTS- &amp; OCS-zertifizierte Bio-Baumwolle
+
+OEKO-TEX Standard 100 geprüft
+
+PETA-Approved Vegan",,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-684bdf385fa61.jpg?v=1749802819,oz,PC040100,20.00,active
+unisex-bio-baumwoll-t-shirt-1,,,,,,,,,M,,,,,,,,7359754_11865,170.09713875,shopify,deny,manual,29.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-684bdf385fa61.jpg?v=1749802819,oz,PC040100,20.00,
+unisex-bio-baumwoll-t-shirt-1,,,,,,,,,L,,,,,,,,7359754_11866,175.767043375,shopify,deny,manual,29.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-684bdf385fa61.jpg?v=1749802819,oz,PC040100,20.00,
+unisex-bio-baumwoll-t-shirt-1,,,,,,,,,XL,,,,,,,,7359754_11867,187.106852625,shopify,deny,manual,29.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-684bdf385fa61.jpg?v=1749802819,oz,PC040100,20.00,
+turmstrassetee,Turmstraße Tee,"<p>Turmstraße Tee – Design von Hannah<br>Ein Shirt wie gemacht für Berlin: Das Turmstraße Tee vereint minimalistisches Design mit maximaler Aussage. Entworfen von der Künstlerin Hannah, inspiriert vom Berliner Stadtleben – gedruckt auf hochwertiger Bio-Baumwolle.<br><br></p>
+<p><strong class=""size-guide-title"">Größentabelle</strong></p>
+<div data-unit-system=""metric"" class=""table-responsive dynamic"">
+<table cellpadding=""5"">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>KÖRPERLÄNGE (cm)</strong></td>
+<td><strong>BRUSTWEITE (cm)</strong></td>
+<td><strong>ÄRMELLÄNGE (cm)</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>69</td>
+<td>49.5</td>
+<td>22.5</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>73</td>
+<td>53.5</td>
+<td>24</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>75</td>
+<td>56.5</td>
+<td>24.5</td>
+</tr>
+<tr>
+<td><strong>XL</strong></td>
+<td>77</td>
+<td>59.5</td>
+<td>25</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+</div>",DSTRCTEE,Uncategorized,"","",true,Größe,S,,,,,,,,5607258_11869,150.2524725625,shopify,deny,manual,29.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-684bde274d077.jpg?v=1749802546,1,Product mockup,false,,,,,"✔ Eigenschaften:
+
+
+100 % Bio-Baumwolle (ringgesponnen)
+
+Stoffgewicht: 180 g/m²
+
+Unisex Medium Fit – bequemer, moderner Schnitt
+
+Eingesetzte Ärmel &amp; 1x1 Rippstrick am Kragen
+
+Doppelnähte an Ärmeln &amp; Saum für extra Haltbarkeit
+
+Nackenband aus gleichem Stoff für mehr Komfort
+
+♻ Zertifizierungen:
+
+
+GOTS &amp; OCS-zertifizierte Bio-Baumwolle
+
+OEKO-TEX Standard 100
+PETA-Approved Vegan",,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-684bde274d077.jpg?v=1749802546,oz,PC040100,20.00,active
+turmstrassetee,,,,,,,,,M,,,,,,,,5607258_11870,170.09713875,shopify,deny,manual,29.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_1350.png?v=1749853942,2,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-684bde274d077.jpg?v=1749802546,oz,PC040100,20.00,
+turmstrassetee,,,,,,,,,L,,,,,,,,5607258_11871,175.767043375,shopify,deny,manual,29.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_1342.png?v=1749854039,3,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-684bde274d077.jpg?v=1749802546,oz,PC040100,20.00,
+turmstrassetee,,,,,,,,,XL,,,,,,,,5607258_11872,187.106852625,shopify,deny,manual,29.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_1345.png?v=1749853993,4,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-black-front-and-back-684bde274d077.jpg?v=1749802546,oz,PC040100,20.00,
+turmstrassetee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_1343.png?v=1749854085,5,"",,,,,,,,,,,,,
+schoneberg-tee,Schöneberg Tee,"<p>Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly.<br></p>",DSTRCTEE,Uncategorized,"","",true,Size,S,,,,,,,,5052128_11864,150.2524725625,shopify,deny,manual,30.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6840b12edfe75.jpg?v=1749070141,1,Product mockup,false,,,,,"• 100% organic ring-spun cotton
+• Fabric weight: 5.3 oz./yd.² (180 g/m²)
+• Single jersey
+• Medium fit
+• Set-in sleeves
+• 1 × 1 rib at collar
+• Wide double-needle topstitch on the sleeves and bottom hems
+• Self-fabric neck tape (inside, back of the neck)
+• The fabric of this product holds certifications for its organic cotton content under GOTS (Global Organic Textile Standard) and OCS (Organic Content Standard)
+• The fabric of this product is OEKO-TEX Standard 100 certified and PETA-Approved Vegan
+• Blank product sourced from Bangladesh
+
+The sizes correspond to a smaller size in the US market, so US customers should order a size up.
+
+This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!",,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6840b12edfe75.jpg?v=1749070141,oz,PC040100,20.00,active
+schoneberg-tee,,,,,,,,,M,,,,,,,,5052128_11865,170.09713875,shopify,deny,manual,30.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6840b12edfe75.jpg?v=1749070141,oz,PC040100,20.00,
+schoneberg-tee,,,,,,,,,L,,,,,,,,5052128_11866,175.767043375,shopify,deny,manual,30.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6840b12edfe75.jpg?v=1749070141,oz,PC040100,20.00,
+schoneberg-tee,,,,,,,,,XL,,,,,,,,5052128_11867,187.106852625,shopify,deny,manual,30.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6840b12edfe75.jpg?v=1749070141,oz,PC040100,20.00,
+kopenick-tee,Köpenick Tee,"<h3>Köpenick Tee – Müggelsee Edition</h3>
+<p>Segel setzen Richtung Berlin-Köpenick.<br><br>Das <strong>Köpenick Tee</strong> ist eine Hommage an den Müggelsee – Berlins größtes Binnengewässer und ein Symbol für Freiheit, Natur und urbanen Rückzugsort. Das T-Shirt zeigt eine künstlerische Collage von Segelbooten, eingefangen in unterschiedlichen Farbwelten – von Tag bis Nacht, von Klarheit bis Reflexion.</p>
+<p><br></p>
+<p><strong class=""size-guide-title"">Größentabelle</strong></p>
+<div data-unit-system=""metric"" class=""table-responsive dynamic"">
+<table cellpadding=""5"">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>KÖRPERLÄNGE (cm)</strong></td>
+<td><strong>BRUSTWEITE (cm)</strong></td>
+<td><strong>ÄRMELLÄNGE (cm)</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong></td>
+<td>69</td>
+<td>49.5</td>
+<td>22.5</td>
+</tr>
+<tr>
+<td><strong>M</strong></td>
+<td>73</td>
+<td>53.5</td>
+<td>24</td>
+</tr>
+<tr>
+<td><strong>L</strong></td>
+<td>75</td>
+<td>56.5</td>
+<td>24.5</td>
+</tr>
+<tr>
+<td><strong>XL</strong></td>
+<td>77</td>
+<td>59.5</td>
+<td>25</td>
+</tr>
+<tr>
+<td><strong>2XL</strong></td>
+<td>79</td>
+<td>63.5</td>
+<td>25.5</td>
+</tr>
+<tr>
+<td><strong>3XL</strong></td>
+<td>81</td>
+<td>67.5</td>
+<td>26</td>
+</tr>
+<tr>
+<td><strong>4XL</strong></td>
+<td>83</td>
+<td>72.5</td>
+<td>26</td>
+</tr>
+<tr>
+<td><strong>5XL</strong></td>
+<td>84</td>
+<td>77.5</td>
+<td>26</td>
+</tr>
+</tbody>
+</table>
+</div>",Mein Shop,Uncategorized,"","",true,Size,S,,,,,,,,5556700_11864,150.2524725625,shopify,deny,manual,30.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6840af9aecdd3.jpg?v=1749069736,1,Product mockup,false,,,,,"
+• 100% organic ring-spun cotton
+• Fabric weight: 5.3 oz./yd.² (180 g/m²)
+• Single jersey
+• Medium fit
+• Set-in sleeves
+• 1 × 1 rib at collar
+• Wide double-needle topstitch on the sleeves and bottom hems
+• Self-fabric neck tape (inside, back of the neck)
+• The fabric of this product holds certifications for its organic cotton content under GOTS (Global Organic Textile Standard) and OCS (Organic Content Standard)
+• The fabric of this product is OEKO-TEX Standard 100 certified and PETA-Approved Vegan
+• Blank product sourced from Bangladesh
+
+
+This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!",,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6840af9aecdd3.jpg?v=1749069736,oz,PC040100,20.00,active
+kopenick-tee,,,,,,,,,M,,,,,,,,5556700_11865,170.09713875,shopify,deny,manual,30.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_2174w.jpg?v=1752151350,2,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6840af9aecdd3.jpg?v=1749069736,oz,PC040100,20.00,
+kopenick-tee,,,,,,,,,L,,,,,,,,5556700_11866,175.767043375,shopify,deny,manual,30.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_2160w.jpg?v=1752151350,3,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6840af9aecdd3.jpg?v=1749069736,oz,PC040100,20.00,
+kopenick-tee,,,,,,,,,XL,,,,,,,,5556700_11867,187.106852625,shopify,deny,manual,30.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_2163w.jpg?v=1752151350,4,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6840af9aecdd3.jpg?v=1749069736,oz,PC040100,20.00,
+f-hain-tee,F-Hain Tee,"<p><strong>F-HAIN TEE von Anne Jahn – Friedrichshain auf Stoff</strong></p>
+<p><br>Ein T-Shirt, das Kunst und Kiez vereint: Das F-HAIN Tee zeigt eine künstlerische Interpretation der Oberbaumbrücke, kombiniert mit urbanen Impressionen aus Friedrichshain – bunt, lebendig, kontrastreich. Das Design stammt von der Künstlerin <a href=""https://dstrctee.com/blogs/news/unsere-kunstler"" title=""Anne Jahn"" rel=""noopener"" target=""_blank"">Anne Jahn</a> und bringt Berliner Kiezgefühl direkt auf deine Brust (und vor allem auf deinen Rücken).<br></p>",Mein Shop,Uncategorized,"","",true,Size,S,,,,,,,,6096975_11864,150.2524725625,shopify,deny,manual,27.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6840ac8d12406.jpg?v=1749068952,1,Product mockup,false,,,,,"Gedruckt auf hochwertigem, umweltfreundlichem Stoff bietet dir dieses Shirt nicht nur Style, sondern auch Komfort und ein gutes Gewissen.
+
+Details:
+100 % Bio-Baumwolle (ringgesponnen)
+Stoffgewicht: 180 g/m²
+Medium Fit (Unisex)
+Einzeljersey
+Eingesetzte Ärmel &amp; Rippkragen
+
+Doppelte Nähte an Ärmeln und Saum
+
+GOTS, OCS, OEKO-TEX 100 und PETA-Approved Vegan zertifiziert
+
+Produziert on demand – für weniger Überproduktion und mehr Nachhaltigkeit",,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6840ac8d12406.jpg?v=1749068952,oz,PC040100,20.00,active
+f-hain-tee,,,,,,,,,M,,,,,,,,6096975_11865,170.09713875,shopify,deny,manual,27.00,,true,true,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/IMG_2843.jpg?v=1752151430,2,"",,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6840ac8d12406.jpg?v=1749068952,oz,PC040100,20.00,
+f-hain-tee,,,,,,,,,L,,,,,,,,6096975_11866,175.767043375,shopify,deny,manual,27.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6840ac8d12406.jpg?v=1749068952,oz,PC040100,20.00,
+f-hain-tee,,,,,,,,,XL,,,,,,,,6096975_11867,187.106852625,shopify,deny,manual,27.00,,true,true,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0911/1997/6821/files/unisex-organic-cotton-t-shirt-white-front-and-back-6840ac8d12406.jpg?v=1749068952,oz,PC040100,20.00,
