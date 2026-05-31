@@ -9,7 +9,7 @@ const CONFIG = {
   email: "info@dstrctee.com",
   betreiber: "Pauguin UG (haftungsbeschränkt)",
   // >>> Formspree-Form-ID hier eintragen (siehe README). Leer = mailto-Fallback. <<<
-  formspreeId: "",
+  formspreeId: "xpqneker",
   instagram: "https://www.instagram.com/dstrctee/",
   tiktok: "https://www.tiktok.com/@dstrctee",
   year: 2026
