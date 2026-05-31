@@ -5,6 +5,11 @@ theme_export__kayy97-gj-myshopify-com-dawn__31MAY2026-0121pm.zip
 # Design-Referenz-Screenshots des echten Shops – nur Vorlage, nicht Teil der Website
 DesignVorlage/
 
+# Interne/persönliche Arbeitsdateien – nicht im öffentlichen Repo
+BRIEFING.md
+INHALTE.md
+ANLEITUNG.md
+
 # Betriebssystem-Müll
 Thumbs.db
 .DS_Store
