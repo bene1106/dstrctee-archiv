@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kontakt – DSTRCTEE Archiv</title>
+  <meta name="description" content="Kontakt zu DSTRCTEE – Interesse hinterlassen oder direkt schreiben.">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <div id="site-top"></div>
+  <noscript><p style="text-align:center;padding:16px;background:#f4abf3">Bitte JavaScript aktivieren – oder schreib direkt an info@dstrctee.com.</p></noscript>
+
+  <main>
+    <div class="wrap">
+      <div class="crumb"><a href="index.html">Start</a> / Kontakt</div>
+      <section class="section" style="padding-top:24px">
+        <div class="section-head">
+          <span class="eyebrow">Kontakt</span>
+          <h1>Schreib uns</h1>
+          <p class="muted">Das Projekt ist pausiert. Du erreichst uns trotzdem – per E-Mail oder über das Interesse-Feld unten.</p>
+        </div>
+
+        <div class="features" style="margin-bottom:8px">
+          <div class="feature"><h3>E-Mail</h3><p><a href="mailto:info@dstrctee.com">info@dstrctee.com</a></p></div>
+          <div class="feature"><h3>Instagram</h3><p><a href="https://www.instagram.com/dstrctee/" target="_blank" rel="noopener">@dstrctee</a></p></div>
+          <div class="feature"><h3>TikTok</h3><p><a href="https://www.tiktok.com/@dstrctee" target="_blank" rel="noopener">@dstrctee</a></p></div>
+        </div>
+
+        <div id="kontakt-form"></div>
+      </section>
+    </div>
+  </main>
+
+  <div id="site-bottom"></div>
+  <script src="assets/js/site.js"></script>
+  <script>
+    window.pageInit = function () {
+      document.getElementById("kontakt-form").innerHTML = interestFormHTML("");
+    };
+  </script>
+</body>
+</html>

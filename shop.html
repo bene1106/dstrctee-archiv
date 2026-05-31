@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tees – DSTRCTEE Archiv</title>
+  <meta name="description" content="Alle DSTRCTEE Tees im Überblick – ein Motiv für jeden Berliner Bezirk.">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <div id="site-top"></div>
+  <noscript><p style="text-align:center;padding:16px;background:#f4abf3">Bitte JavaScript aktivieren, um die Produkte zu laden.</p></noscript>
+
+  <main>
+    <div class="wrap">
+      <div class="crumb"><a href="index.html">Start</a> / Tees</div>
+      <section class="section" style="padding-top:24px">
+        <div class="section-head">
+          <span class="eyebrow">Archiv · 8 Motive</span>
+          <h1>Die Tees</h1>
+          <p class="muted">Ein Shirt für jeden Kiez. Klick dich rein – Kauf ist pausiert, Interesse kannst du hinterlassen.</p>
+        </div>
+        <div class="grid" id="produkt-grid">
+          <p class="muted">Lade Produkte …</p>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <div id="site-bottom"></div>
+  <script src="assets/js/site.js"></script>
+  <script>
+    window.pageInit = async function () {
+      const grid = document.getElementById("produkt-grid");
+      try {
+        const produkte = await loadProdukte();
+        grid.innerHTML = produkte.map(p => `
+          <a class="card" href="produkt.html?handle=${encodeURIComponent(p.handle)}">
+            <div class="thumb"><img src="${imgPath(p.bilder[0])}" alt="${p.titel}" loading="lazy"></div>
+            <span class="kiez">${p.bezirk}</span>
+            <span class="title">${p.titel}</span>
+            <span class="price">${euro(p.preis, p.preis_ab)}</span>
+          </a>`).join("");
+      } catch (e) {
+        grid.innerHTML = '<p class="form-note err">Produkte konnten nicht geladen werden.</p>';
+        console.error(e);
+      }
+    };
+  </script>
+</body>
+</html>
