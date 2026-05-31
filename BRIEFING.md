@@ -1,51 +1,62 @@
 # Briefing: DISTRICTEE Archiv-/Pause-Seite (statisch, für GitHub Pages)
 
 ## Ziel
-Baue aus den vorhandenen Dateien eine **statische Website** (reines HTML/CSS/JS, kein Framework, kein Backend), die den bisherigen Shopify-Store **dstrctee** als Archiv nachbildet. Der Shop wird gekündigt; diese Seite ersetzt ihn und läuft kostenlos auf **GitHub Pages**.
+Statische Website (reines HTML/CSS/JS, kein Framework, kein Backend), die den bisherigen Shopify-Store **DSTRCTEE** als Archiv nachbildet. Der Shop wird gekündigt; diese Seite ersetzt ihn und läuft kostenlos auf **GitHub Pages**.
 
-Wichtig: **Kein Kauf, kein Warenkorb, kein Checkout.** Statt "Kaufen" gibt es nur ein E-Mail-Interessenfeld. Auf der Seite muss klar stehen, dass das Projekt **pausiert** ist.
+**Kein Kauf, kein Warenkorb, kein Checkout, kein Preis-zum-Bestellen.** Statt Kaufen gibt es nur ein E-Mail-Interessenfeld. Auf der Seite muss klar stehen, dass das Projekt **pausiert** ist.
 
-## Vorhandene Dateien in diesem Ordner
-- `products_export_1.csv` — Shopify-Produktexport. **Maßgebliche Quelle** für Produkte. Spalten u.a.: `Handle` (Produkt-ID), `Title`, `Body (HTML)` (Beschreibung), `Variant Price`, `Image Src` (Original-CDN-Bild-URL), `Image Position`.
-- `Produktbilder/` — bereits lokal gesicherte Produktbilder (Printful-Dateinamen wie `unisex-organic-cotton-t-shirt-white-front-and-back-6840ac8d12406.jpg`). **Unvollständig** (ca. 9 Dateien bei 13 Produkten).
-- `DesignbilderWebseite/` — Layout-Bilder (Logo, Hero "local art", Banner, Artist-Fotos: IMG_*.jpg/png). Gehören NICHT zu Produkten, sondern zum Seitendesign.
-- `referenz_uebersicht.png` — Screenshot der Shop-Produktübersicht (zeigt jedes Shirt-Motiv mit Produktnamen + Preis). **Visuelle Referenz** zur Bildzuordnung.
-- `theme_export__...dawn.../` — exportiertes Shopify-Theme (Dawn). Dient **nur als Stil-/Layout-Referenz** (Farben, Fonts, Aufbau, ggf. Texte aus `templates/*.json` und `sections/*.liquid`). NICHT 1:1 nachbauen — neu und schlank umsetzen.
+## WICHTIG: Design
+**Nutze das `frontend-design`-Skill/Plugin** für hochwertiges, originalgetreues Design. Das Ergebnis soll wie der echte Shop aussehen, nicht wie eine generische Kopie.
 
-## WICHTIG: Bild-Zuordnung (zuerst erledigen!)
-Die lokalen Dateinamen in `Produktbilder/` verraten nicht, zu welchem Produkt/Bezirk sie gehören. Zwei Methoden kombinieren:
+Als exakte Design-Vorlage liegen 5 Screenshots des echten Shops bei:
+- `design_start.png` — Header, Banner, Hero, Anfang Produktgrid
+- `design_grid.png` — Produktgrid + 3-Spalten-Sektion
+- `design_footer.png` — Newsletter-Block + Footer
+- `design_produkt1.png` — Produktseite oben (Galerie, Titel, Beschreibung, Größentabelle)
+- `design_produkt2.png` — Produktseite unten (weitere Galeriebilder, Material/GPSR)
 
-### Methode 1 — CSV-Matching (primär, technisch exakt)
-1. CSV einlesen: pro Zeile `Handle`, `Title`, `Image Src`, `Image Position`.
-2. Aus jeder `Image Src`-URL den **Dateinamen** extrahieren (letzter Pfadteil, z. B. `...-6840ac8d12406.jpg`).
-3. Mit den lokalen Dateien in `Produktbilder/` **matchen** → welches lokale Bild gehört zu welchem `Handle`.
+Bau Layout, Typografie, Weißraum und Farben exakt danach nach. Pink-Akzent: **#f4abf3**.
 
-### Methode 2 — visueller Abgleich (für Lücken)
-Wenn ein lokales Bild über die CSV NICHT eindeutig zugeordnet werden kann:
-- Bild mit `view` **öffnen und ansehen**, Motiv erkennen.
-- Mit `referenz_uebersicht.png` abgleichen (zeigt jedes Motiv + Produktnamen). Bekannte Produkte laut Screenshot: F-Hain Tee (€27), Berlin Tee (ab €31,50, pinkes Shirt mit Tiger), Köpenick Tee (€30), Bergmannkiez Tee (€27), Sonnenallee Tee (ab €27, schwarz), Wedding Tee (€29), Turmstraße Tee (€29, schwarz/pink), Schöneberg Tee (€30, blaues Motiv).
-- So jedes Bild dem richtigen Produkt zuordnen.
+### Layout-Details (aus den Screenshots)
+- **Header:** Nav links (Tees · Pullis · Kontakt · Unsere Artists · Über uns), Logo zentriert, Such-/Account-/Cart-Icons rechts (Cart-Icon optional rein dekorativ, ohne Funktion).
+- **Pinker Banner** direkt unter dem Header: `free shipping ✦ designed in berlin ✦ 20% local artist commission`
+- **Hero:** großes Foto, zentriert „berlin's soul", darunter „20% der Gewinne geht an die artists", Button „Jetzt entdecken" (weiß, outline).
+- **Produktgrid:** 4 Spalten, Titel + „Von €X"/„€X" darunter.
+- **3-Spalten-Sektion:** „Fair & nachhaltig" / „Hochwertige Stoffe" / „Echte Kunst verdient Qualität" mit den Texten aus design_grid.png.
+- **Newsletter-Block „GOOD NEWS":** grauer Hintergrund, zentriert, E-Mail-Feld.
+- **Footer:** 4 Spalten mit Emoji-Headern + Links:
+  - 🎨 **Hilfe & Support:** FAQ, Rückgabe & Umtausch, Kontakt, Größenberatung, Künstler:in werden
+  - 🎁 **DSTRCTEE entdecken:** Über uns, Unsere Künstler:innen, Alle Bezirke, Gutscheine, Nachhaltigkeit
+  - 💳 **Bezahlung & Versand:** Zahlungsmethoden, Versandkosten & Lieferzeiten
+  - 📋 **Rechtliches:** Impressum, AGB, Widerrufsrecht, Datenschutzerklärung
+  - Darunter: Instagram- + TikTok-Icon, „© 2026, DSTRCTEE"
+  - (Links, für die es keine Seite gibt, als Platzhalter/`#` belassen.)
+- **Produktseite:** Bildergalerie links, rechts Titel/Preis/Größenauswahl/Beschreibung/Größentabelle wie in design_produkt1+2.png. **Statt „In den Warenkorb legen": E-Mail-Interessenfeld** („Interesse? Trag deine E-Mail ein.").
 
-### Danach
-4. `produkte.json` erzeugen: pro Produkt Titel, Beschreibung, Preis, zugeordnete lokale Bilddateien (Reihenfolge nach `Image Position`).
-5. **Fehlende Bilder nachladen:** Steht in der CSV eine `Image Src`, deren Dateiname lokal fehlt → aus der CDN-URL herunterladen, in `Produktbilder/` ablegen. **Nur solange der Shop online ist — vor der Kündigung!**
-6. Am Ende ausgeben, welche Produkte **kein** Bild haben (Kontroll-Liste).
+### Logo
+Echte Logodatei: **`DesignbilderWebseite/9.png`**. Überall verwenden, das bisher nachgebaute Logo vollständig ersetzen.
 
-## Aufgaben
-1. **Bild-Zuordnung + Nachladen** (siehe oben) — zuerst.
-2. **Startseite (`index.html`):** Banner **"Dieses Projekt ist aktuell pausiert."**, kurzer Pitch (Berliner Streetwear mit Kunst aus jedem Bezirk von lokalen Artists), Hero-Bild aus `DesignbilderWebseite/`, Link zur Übersicht.
-3. **Produktübersicht:** Alle Produkte aus `produkte.json` als Grid (Bild, Titel, Preis).
-4. **Produktseiten:** Detailansicht je Produkt (dynamisch per JS aus `produkte.json`) mit Bildern, Titel, Beschreibung. **Statt Kaufen:** "Interesse? Trag deine E-Mail ein."
-5. **E-Mail-Erfassung:** Kein Backend auf GitHub Pages. **Formspree** (Platzhalter für Form-ID) oder Fallback `mailto:info@dstrctee.com`.
-6. **Statische Seiten:** "Über uns" / "Unsere Artists" / "Kontakt" — Texte falls vorhanden aus dem Theme übernehmen.
+## Vorhandene Dateien
+- `products_export_1.csv` — Produktdaten (Handle, Title, Body (HTML), Variant Price, Image Src, Image Position).
+- `produkte.json` — bereits erzeugt: die 8 Tees mit Titel, Beschreibung, Artist, Bezirk, Preis, Bildern. Falls vorhanden, weiterverwenden.
+- `Produktbilder/` — Produktbilder (Zuordnung steht in produkte.json / CSV).
+- `DesignbilderWebseite/` — Layout-Bilder inkl. Logo `9.png`, Hero-Foto, Artist-Fotos.
+- `design_start.png`, `design_grid.png`, `design_footer.png`, `design_produkt1.png`, `design_produkt2.png` — Design-Referenzen.
+- `theme_export__...dawn.../` — altes Shopify-Theme, nur ergänzende Stil-/Textreferenz.
 
-## Technische Vorgaben
-- Reines HTML/CSS/JS, **keine** Build-Tools.
-- **Alle Pfade relativ** (läuft unter `username.github.io/repo/`).
-- Optik an Dawn angelehnt: Pink-Akzent (siehe `config/settings_data.json`), schlichte Streetwear-Ästhetik.
+## Produkte
+Nur die **8 veröffentlichten Tees**: F-Hain, Berlin, Köpenick, Bergmannkiez, Sonnenallee, Wedding, Turmstraße, Schöneberg. Hoodies, Zip-Hoodie, Special Edition und Gutschein ignorieren (nie released).
+
+## E-Mail-Erfassung
+Kein Backend auf GitHub Pages. **Formspree** (Platzhalter für Form-ID einbauen) mit Fallback `mailto:info@dstrctee.com`.
+
+## Technik
+- Reines HTML/CSS/JS, keine Build-Tools.
+- Alle Pfade relativ (läuft unter `username.github.io/repo/`).
 - Mobil-responsiv.
-- `README.md` mit Anleitung: GitHub-Pages-Deploy + Formspree-ID eintragen.
+- Lokales Git-Repo von Anfang an, sauber committen.
+- GitHub-Push + Pages-Aktivierung + Formspree-ID = letzter Schritt, als Schritt-für-Schritt-Anleitung in die `README.md` (noch nicht ausführen).
 
-## Markenangaben (für Footer)
-- Marke: DSTRCTEE · Betreiber: Pauguin UG (haftungsbeschränkt) · Kontakt: info@dstrctee.com
-- Rechtstexte/Impressum nicht erfinden — Platzhalter setzen.
+## Markenangaben (Footer)
+Marke: DSTRCTEE · Betreiber: Pauguin UG (haftungsbeschränkt) · Kontakt: info@dstrctee.com
+Impressum/Datenschutz nicht erfinden — Platzhalter setzen, Nutzer ergänzt.
