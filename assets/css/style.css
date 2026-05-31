@@ -73,7 +73,10 @@ h1, h2, h3, h4 { margin: 0; line-height: 1.12; letter-spacing: -.015em; font-wei
   display: inline-flex;
   gap: 0;
   padding: 9px 0;
-  animation: marquee 28s linear infinite;
+  /* Track besteht aus zwei identischen Hälften (je 6 Wiederholungen, breiter als jeder Viewport
+     -> keine Lücke). -50% verschiebt exakt eine Hälfte = nahtloser Loop. Dauer = 6 x 28s, damit
+     die Scroll-Geschwindigkeit unverändert bleibt. */
+  animation: marquee 168s linear infinite;
   will-change: transform;
 }
 .marquee__track span { padding-inline: 1.4em; }

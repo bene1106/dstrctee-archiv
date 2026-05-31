@@ -111,7 +111,7 @@ function renderHeader() {
       </div>
     </header>
     <div class="marquee" aria-hidden="true">
-      <div class="marquee__track">${marqueeContent()}${marqueeContent()}</div>
+      <div class="marquee__track">${marqueeContent().repeat(6)}${marqueeContent().repeat(6)}</div>
     </div>
     <div class="notice"><strong>Archiv – Projekt pausiert.</strong> Kein Verkauf, kein Versand. Trag deine E-Mail ein, falls DSTRCTEE zurückkommt.</div>`;
 
@@ -136,7 +136,7 @@ function renderFooter() {
   if (!bottom) return;
 
   const cols = [
-    { h: "🎨 Hilfe & Support", links: ["FAQ", "Rückgabe & Umtausch", ["Kontakt","kontakt.html"], "Größenberatung", "Künstler:in werden"] },
+    { h: "🎨 Hilfe & Support", links: ["FAQ", "Rückgabe & Umtausch", ["Kontakt","kontakt.html"], ["Größenberatung","groessenberatung.html"], "Künstler:in werden"] },
     { h: "🎁 DSTRCTEE entdecken", links: [["Über uns","ueber-uns.html"], ["Unsere Künstler:innen","artists.html"], ["Alle Bezirke","shop.html"], "Gutscheine", "Nachhaltigkeit"] },
     { h: "💳 Bezahlung & Versand", links: ["Zahlungsmethoden", "Versandkosten & Lieferzeiten"] },
     { h: "📋 Rechtliches", links: [["Impressum","impressum.html"], "AGB", "Widerrufsrecht", ["Datenschutzerklärung","datenschutz.html"]] }
