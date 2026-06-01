@@ -2,10 +2,10 @@
 
 Statische **Archiv-/Pause-Seite** des Berliner Streetwear-Projekts **DSTRCTEE**.
 
-DSTRCTEE stand für ein Shirt pro Kiez – jedes Motiv in Zusammenarbeit mit lokalen
+DSTRCTEE stand für ein Shirt pro Kiez, jedes Motiv in Zusammenarbeit mit lokalen
 Künstler:innen aus dem jeweiligen Berliner Bezirk. Das Projekt ist aktuell
 **pausiert**: Diese Seite ersetzt den ehemaligen Shop als Archiv. Es gibt
-**keinen Verkauf, keinen Warenkorb und keinen Checkout** – statt „Kaufen" lässt
+**keinen Verkauf, keinen Warenkorb und keinen Checkout**: statt „Kaufen" lässt
 sich nur ein E-Mail-Interesse hinterlassen.
 
 ## Technik
@@ -39,4 +39,4 @@ python -m http.server 8000
 
 ## Marke
 
-DSTRCTEE · Betreiber: Pauguin UG (haftungsbeschränkt) · info@dstrctee.com
+DSTRCTEE | info@dstrctee.com
