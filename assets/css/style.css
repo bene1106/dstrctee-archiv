@@ -443,6 +443,7 @@ h1, h2, h3, h4 { margin: 0; line-height: 1.12; letter-spacing: -.015em; font-wei
 /* Textseiten (mit .prose): Inhaltsspalte zentriert, Text bleibt linksbündig;
    etwas mehr Abstand zwischen Eyebrow/Slogan und Überschrift */
 .section--tight:has(.prose) .section__head,
+.section--tight:has(.prose) > p,
 .section--tight:has(.prose) .prose {
   max-width: 68ch;
   margin-inline: auto;
