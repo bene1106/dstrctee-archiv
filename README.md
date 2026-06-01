@@ -1,4 +1,4 @@
-# DSTRCTEE – Archiv
+# DSTRCTEE Archiv
 
 Statische **Archiv-/Pause-Seite** des Berliner Streetwear-Projekts **DSTRCTEE**.
 
