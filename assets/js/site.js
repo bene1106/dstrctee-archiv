@@ -177,7 +177,6 @@ function renderFooter() {
           <div class="footer-legal">
             © ${CONFIG.year}, ${CONFIG.brand}
             <span class="sep">·</span><a href="kontakt.html">Kontaktinformationen</a>
-            <span class="sep">·</span>Betreiber: ${CONFIG.betreiber}
           </div>
         </div>
       </div>
