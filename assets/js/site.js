@@ -136,7 +136,7 @@ function renderFooter() {
   if (!bottom) return;
 
   const cols = [
-    { h: "🎨 Hilfe & Support", links: ["FAQ", "Rückgabe & Umtausch", ["Kontakt","kontakt.html"], ["Größenberatung","groessenberatung.html"], "Künstler:in werden"] },
+    { h: "🎨 Hilfe & Support", links: [["FAQ","faq.html"], ["Rückgabe & Umtausch","widerruf.html"], ["Kontakt","kontakt.html"], ["Größenberatung","groessenberatung.html"], ["Künstler:in werden","kuenstler-werden.html"]] },
     { h: "🎁 DSTRCTEE entdecken", links: [["Über uns","ueber-uns.html"], ["Unsere Künstler:innen","artists.html"], ["Alle Bezirke","shop.html"], "Gutscheine", "Nachhaltigkeit"] },
     { h: "💳 Bezahlung & Versand", links: ["Zahlungsmethoden", "Versandkosten & Lieferzeiten"] },
     { h: "📋 Rechtliches", links: [["Impressum","impressum.html"], "AGB", "Widerrufsrecht", ["Datenschutzerklärung","datenschutz.html"]] }
