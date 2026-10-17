@@ -113,7 +113,7 @@ function renderHeader() {
     <div class="marquee" aria-hidden="true">
       <div class="marquee__track">${marqueeContent().repeat(6)}${marqueeContent().repeat(6)}</div>
     </div>
-    <div class="notice"><strong>Archiv – Projekt pausiert.</strong> Kein Verkauf, kein Versand. Trag deine E-Mail ein, falls DSTRCTEE zurückkommt.</div>`;
+    ${here === "kuenstler-werden.html" ? "" : '<div class="notice"><strong>Archiv – Projekt pausiert.</strong> Kein Verkauf, kein Versand. Trag deine E-Mail ein, falls DSTRCTEE zurückkommt.</div>'}`;
 
   // Mobile-Toggle
   const toggle = top.querySelector(".nav-toggle");
