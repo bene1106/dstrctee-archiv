@@ -3,13 +3,36 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Künstler:in werden – DSTRCTEE Archiv</title>
-  <meta name="description" content="Werde Teil von DSTRCTEE: Berliner Künstler:innen bringen ihre Bezirke als Kunstwerke auf hochwertige Streetwear.">
+  <title>Open Call: Künstler:in werden – DSTRCTEE</title>
+  <meta name="description" content="Bring deinen Berliner Kiez auf ein Shirt. Bewirb dich beim DSTRCTEE Open Call für Künstler:innen – mit 20 % Gewinnbeteiligung und ohne Kosten. Studierende willkommen!">
+  <meta property="og:title" content="Open Call: Künstler:in werden – DSTRCTEE">
+  <meta property="og:description" content="Bring deinen Berliner Kiez auf ein Shirt. 20 % Gewinnbeteiligung, keine Kosten. Studierende willkommen – jetzt in 2 Minuten bewerben!">
+  <meta property="og:image" content="https://dstrctee.com/assets/img/logo.png">
+  <meta property="og:image:alt" content="DSTRCTEE Logo">
+  <meta property="og:url" content="https://dstrctee.com/kuenstler-werden.html">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
   <link rel="icon" href="assets/img/logo.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
+  <style>
+    .open-call .section__head h1 { font-size: clamp(1.5rem, 2.6vw, 2rem); }
+    .open-call .prose h2 { font-size: 1.2rem; margin: 1.6em 0 .6em; }
+    .open-call .prose h2:first-child { margin-top: 0; }
+    .application-form { display: grid; gap: 18px; }
+    .application-form label { display: block; font-size: .9rem; }
+    .application-form .field { max-width: none; margin: 6px 0 0; }
+    .application-form .field > * { width: 100%; min-width: 0; }
+    .application-form select, .application-form textarea {
+      border: 0; background: none; padding: 16px 18px; font: inherit; color: var(--ink);
+    }
+    .application-form textarea { resize: vertical; }
+    .application-form .consent { display: flex; align-items: flex-start; gap: 10px; }
+    .application-form .consent input { flex: 0 0 auto; margin: 5px 0 0; accent-color: var(--pink-deep); }
+    .application-form .btn { justify-self: start; max-width: 100%; }
+  </style>
 </head>
 <body>
   <div id="site-top"></div>
@@ -17,45 +40,98 @@
 
   <main>
     <div class="wrap">
-      <div class="breadcrumb"><a href="index.html">Start</a> / <span>Künstler:in werden</span></div>
-      <section class="section section--tight">
+      <div class="breadcrumb"><a href="index.html">Start</a> / <span>Open Call</span></div>
+      <section class="section section--tight open-call">
         <div class="section__head">
-          <span class="eyebrow">Hilfe &amp; Support</span>
-          <h2>🎨 Künstler:in werden</h2>
-          <p class="lead">Du bist Künstler:in aus Berlin und möchtest deine Kunst auf hochwertiger Streetwear sehen? Dann werde Teil von DSTRCTEE – der Marke, die Berliner Bezirke als Kunstwerke auf T-Shirts bringt.</p>
+          <span class="eyebrow">Open Call</span>
+          <h1>Künstler:in werden</h1>
+          <p class="lead">DSTRCTEE startet neu – und die ersten Designs der neuen Kollektion kommen von dir. Du zeichnest, malst, sprühst, fotografierst oder gestaltest digital und hast eine Verbindung zu einem Berliner Bezirk? Dann bring deinen Kiez auf ein Shirt.</p>
         </div>
 
         <p style="background:#fff4e5;border:1px solid #f0c98a;border-radius:6px;padding:14px 18px;font-size:.9rem;color:#7a5616;max-width:68ch">
-          <strong>Hinweis:</strong> DSTRCTEE ist gerade pausiert – wir sammeln aber weiterhin Ideen und Kontakte für einen möglichen Neustart. Meld dich gern, dann hören wir voneinander, sobald es weitergeht.
+          <strong>Open Call:</strong> Wir bauen DSTRCTEE gerade mit neuem Team wieder auf und suchen Künstler:innen für die nächsten Bezirks-Shirts. Studierende sind ausdrücklich willkommen – egal ob erstes Semester oder kurz vor dem Abschluss.
         </p>
 
         <div class="prose">
-          <h3>✨ Was wir bieten</h3>
+          <h2>✨ Was wir bieten</h2>
           <ul>
-            <li>20 % Gewinnbeteiligung pro verkauftem Shirt mit deinem Design</li>
-            <li>Produktion, Versand und Shop übernehmen wir</li>
-            <li>dein eigenes Künstler:innenprofil mit Bio &amp; Bezirk auf der Website</li>
-            <li>optionale Social-Media-Features &amp; kreative Videoprojekte</li>
+            <li>20 % Gewinnbeteiligung an jedem verkauften Shirt mit deinem Design</li>
+            <li>Produktion, Druck, Versand und Shop übernehmen wir – für dich entstehen keine Kosten</li>
+            <li>dein eigenes Künstler:innenprofil mit Bio, Bezirk und Links auf der Website</li>
+            <li>Sichtbarkeit über Instagram, TikTok, Shootings und Videoprojekte</li>
+            <li>ein echtes, tragbares Projekt für dein Portfolio</li>
           </ul>
 
-          <h3>🧵 Was wir suchen</h3>
+          <h2>Was wir suchen</h2>
           <ul>
-            <li>ein eigenständiges Kunstwerk, das einen Berliner Bezirk repräsentiert</li>
+            <li>ein eigenständiges Kunstwerk, das einen Berliner Bezirk oder Kiez repräsentiert</li>
             <li>handgezeichnet, digital oder analog – Hauptsache originell</li>
-            <li>stilistisch offen (Streetart, Illustration, Typografie, Abstrakt, Collage etc.)</li>
-            <li>keine Mode- oder Druckerfahrung nötig, das übernehmen wir</li>
+            <li>stilistisch offen: Streetart, Illustration, Typografie, Abstrakt, Collage, Foto …</li>
+            <li>keine Mode- oder Druckerfahrung nötig, die Druckvorbereitung übernehmen wir</li>
           </ul>
 
-          <h3>📬 So bewirbst du dich</h3>
-          <ul>
-            <li>kurze Nachricht mit deinem Namen + Instagram-/Portfolio-Link</li>
-            <li>deinen Bezirk oder Wunschbezirk</li>
-            <li>1–2 Arbeitsproben oder Skizzen (falls vorhanden)</li>
-          </ul>
-          <p>Schick deine Bewerbung an <a href="mailto:info@dstrctee.com">info@dstrctee.com</a>.</p>
+          <h2>So läuft's</h2>
+          <ol>
+            <li>Bewerben – Formular unten ausfüllen, dauert 2 Minuten.</li>
+            <li>Kennenlernen – wir melden uns und quatschen kurz über deine Idee.</li>
+            <li>Gestalten – du entwirfst dein Bezirks-Motiv, wir helfen bei der Umsetzung aufs Shirt.</li>
+            <li>Launch – dein Shirt geht mit deinem Profil online.</li>
+          </ol>
 
-          <h3>❗ Wichtig</h3>
-          <p>Du behältst alle Urheberrechte an deinem Werk; wir erhalten lediglich ein einfaches Nutzungsrecht zur Produktion &amp; Vermarktung.</p>
+          <h2 id="bewerben">Jetzt bewerben</h2>
+          <p>Arbeitsproben kannst du über deinen Instagram- oder Portfolio-Link zeigen. Lieber per Mail? Schreib an <a href="mailto:info@dstrctee.com">info@dstrctee.com</a>.</p>
+          <div class="contact-form">
+            <form id="application-form" class="application-form" action="https://formspree.io/f/xpqneker" method="post" data-subject="Neue Künstler:innen-Bewerbung – DSTRCTEE" aria-labelledby="bewerben">
+              <input type="hidden" name="formular" value="kuenstler-bewerbung">
+              <input type="hidden" name="_subject" value="Neue Künstler:innen-Bewerbung – DSTRCTEE">
+              <input type="hidden" name="quelle" value="direkt">
+              <label for="application-name">Name (Pflicht)
+                <span class="field"><input id="application-name" name="name" required autocomplete="name"></span>
+              </label>
+              <label for="application-email">E-Mail (Pflicht)
+                <span class="field"><input id="application-email" name="email" type="email" required autocomplete="email"></span>
+              </label>
+              <label for="application-portfolio">Instagram- oder Portfolio-Link (Pflicht)
+                <span class="field"><input id="application-portfolio" name="portfolio" required autocapitalize="none" spellcheck="false"></span>
+              </label>
+              <label for="application-district">Bezirk / Wunschbezirk (Pflicht)
+                <span class="field"><select id="application-district" name="bezirk" required>
+                  <option value="" disabled selected>Bitte wählen</option>
+                  <option>Charlottenburg-Wilmersdorf</option>
+                  <option>Friedrichshain-Kreuzberg</option>
+                  <option>Lichtenberg</option>
+                  <option>Marzahn-Hellersdorf</option>
+                  <option>Mitte</option>
+                  <option>Neukölln</option>
+                  <option>Pankow</option>
+                  <option>Reinickendorf</option>
+                  <option>Spandau</option>
+                  <option>Steglitz-Zehlendorf</option>
+                  <option>Tempelhof-Schöneberg</option>
+                  <option>Treptow-Köpenick</option>
+                  <option>Noch offen</option>
+                </select></span>
+              </label>
+              <label for="application-kiez">Konkreter Kiez (optional)
+                <span class="field"><input id="application-kiez" name="kiez" placeholder="Sonnenallee, Bergmannkiez …"></span>
+              </label>
+              <label for="application-background">Hochschule / Hintergrund (optional)
+                <span class="field"><input id="application-background" name="hintergrund" placeholder="UdK, Kommunikationsdesign"></span>
+              </label>
+              <label for="application-message">Deine Idee / Nachricht (optional)
+                <span class="field"><textarea id="application-message" name="nachricht" rows="5"></textarea></span>
+              </label>
+              <label class="consent" for="application-consent">
+                <input id="application-consent" name="datenschutz" type="checkbox" value="ja" required>
+                <span>Ich bin einverstanden, dass meine Angaben zur Bearbeitung meiner Bewerbung gespeichert werden. Mehr in der <a href="/datenschutz.html">Datenschutzerklärung</a>.</span>
+              </label>
+              <button class="btn" type="submit">Bewerbung abschicken</button>
+            </form>
+            <div class="form-note" role="status" aria-live="polite"></div>
+          </div>
+
+          <h2>❗ Wichtig</h2>
+          <p>Du behältst alle Urheberrechte an deinem Werk. Wir erhalten lediglich ein einfaches Nutzungsrecht zur Produktion und Vermarktung auf Kleidung und Merch. Alles Weitere halten wir vor dem Start in einer kurzen, fairen Vereinbarung fest.</p>
 
           <p style="margin-top:24px;font-weight:600">DSTRCTEE ist für Berlin. Für Kunst. Für dich.</p>
         </div>
@@ -65,5 +141,34 @@
 
   <div id="site-bottom"></div>
   <script src="assets/js/site.js"></script>
+  <script>
+    // Gleicher FormData-/Formspree-Ablauf wie die Interessenformulare in site.js.
+    const applicationForm = document.getElementById("application-form");
+    const sourceField = applicationForm.elements.quelle;
+    sourceField.value = sourceField.defaultValue = new URLSearchParams(location.search).get("src") || "direkt";
+    applicationForm.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      const note = applicationForm.parentElement.querySelector(".form-note");
+      const button = applicationForm.querySelector("button[type=submit]");
+      const errorMessage = "Das hat leider nicht geklappt. Versuch es nochmal oder schreib uns an info@dstrctee.com.";
+      button.disabled = true;
+      showNote(note, "", "");
+      try {
+        const res = await fetch(applicationForm.action, {
+          method: "POST", headers: { "Accept": "application/json" }, body: new FormData(applicationForm)
+        });
+        if (res.ok) {
+          applicationForm.reset();
+          showNote(note, "ok", "Danke! Wir haben deine Bewerbung und melden uns in den nächsten Tagen bei dir.");
+        } else {
+          showNote(note, "err", errorMessage);
+        }
+      } catch (err) {
+        showNote(note, "err", errorMessage);
+      } finally {
+        button.disabled = false;
+      }
+    });
+  </script>
 </body>
 </html>

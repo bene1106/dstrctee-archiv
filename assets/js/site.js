@@ -126,7 +126,7 @@ function renderHeader() {
   });
 }
 function marqueeContent() {
-  const items = ["free shipping", "designed in berlin", "20% local artist commission"];
+  const items = ["DSTRCTEE KOMMT ZURÜCK", "WIR SUCHEN BERLINER KÜNSTLER:INNEN", "JETZT BEWERBEN"];
   return items.map(t => `<span>${t}</span><span class="star">✦</span>`).join("");
 }
 
